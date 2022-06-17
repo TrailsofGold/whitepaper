@@ -17,7 +17,7 @@ Speed and Armament affect the game mechanics as Capacity gives the maximum crew 
 
 If a user has more pirates that his/her ship capacity he/she can modify his/her crew composition in between each treasure hunt.
 
-He/she can alos sell or trade pirates that he/she does not use.
+He/she can also sell or trade pirates that he/she does not use.
 
 ## Items
 

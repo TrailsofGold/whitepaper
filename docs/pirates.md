@@ -1,5 +1,12 @@
 # Pirates
 
+<p align="center">
+  <img width="128" height="128" src="./img/pirate1.png">
+  <img width="128" height="128" src="./img/pirate2.png">
+  <img width="128" height="128" src="./img/pirate3.png">
+  <img width="128" height="128" src="./img/pirate4.png">
+</p>
+
 ## Seasons
 
 Pirates NFTs are gathered into collections (Smart Contracts) named "seasons".
@@ -29,4 +36,3 @@ Skills are :
 They range from 0 (minimum) to 100 (maximum) and have an impact on :
 - Treasures value
 - Treasures expiration time
-- Physical distance between the user location and treasures location.

@@ -20,12 +20,9 @@ Users can see treasures on their map, but not ship wrecks.
 
 ## VS hunt
 
-In VS hunt mode, users have to find the same treasures, and the first reaching the location wins all the PGLD (winner takes all). The VS hunt treasure value is greater than the solo hunt treasure.
+In VS hunt mode, users have to find the same treasures, and the first reaching the location wins all the PGLD (winner takes all). 
 
-## Treasures spawning
+The VS hunt treasure value is greater than the solo hunt treasure.
 
-> TODO
+A user cannot start a solo hunt and a VS hunt at the same time.
 
-## Ship wrecks
-
-> TODO

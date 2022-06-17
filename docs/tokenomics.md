@@ -5,9 +5,38 @@ Pirate Gold (PGLD) is the game token.
 It can be used to buy ships or items. And can be changed into crypto currency as well.
 
 PGLD owned by the game is redistributed as follows:
-- 20% is put on sale
-- 50% is used for treasure rewards
-- 30% is kept for staking
+
+```vegalite
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "PGLD game redistribution.",
+  "data": {
+    "values": [
+      {"Usage": "Put on sale", "Pct": 0.2},
+      {"Usage": "Used for rewards", "Pct": 0.5},
+      {"Usage": "Kept for staking", "Pct": 0.3}
+    ]
+  },
+  "encoding": {
+    "theta": {"field": "Pct", "type": "quantitative", "stack": true},
+    "color": {"field": "Usage", "type": "nominal", "legend": null}
+  },
+  "layer": [{
+    "mark": {"type": "arc", "outerRadius": 80}
+  }, {
+    "mark": {"type": "text", "radius": 130},
+    "encoding": {
+      "text": {"field": "Usage", "type": "nominal"},
+      "color": {"field": "Usage", "type": "nominal", "legend": null}
+    }
+  }, {
+    "mark": {"type": "text", "radius": 130, "yOffset": 20},
+    "encoding": {
+      "text": {"field": "Pct", "type": "nominal",  "format": ".0%"}
+    }
+  }]
+}
+```
 
 ## Supply
 
