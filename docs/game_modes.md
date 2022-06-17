@@ -14,7 +14,7 @@ A solo hunt ends when all tresures expire.
 
 When starting a solor hunt , the game system spawns several treasures around the user the location, and everytime he/she reaches this physical location he/she is rewarded with PGLD.
 
-While moving towards treasure locations users may discover ship wrecks containing pirates and / or PGLD coins.
+While moving towards treasure locations users may discover ship wrecks containing pirates and / or PGLD tokens.
 
 Users can see treasures on their map, but not ship wrecks.
 
