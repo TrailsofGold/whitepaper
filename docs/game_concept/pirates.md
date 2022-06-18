@@ -21,6 +21,10 @@ The mint price is calculated according to the PGLD current value: the higher the
 
 ## Attributes and skills
 
+<p align="center">
+  <img src="./img/pirate_skills.png">
+<p>
+
 Pirates are defined by a set of physical attributes and a set of skills.
 
 Physical attributes do not affect the game mechanics, but skills do.
