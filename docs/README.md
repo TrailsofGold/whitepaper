@@ -16,7 +16,7 @@ The goals of the game are simple and clear:
 3. Earn money
 
 Note that earning money comes thrid. For a simple reason: the game needs to be sustainable. Which means:
-- A balanced model insead of unsustainable ROI promises
+- A balanced model instead of unsustainable ROI promises
 - An affordable entry cost and less financial pressure on newcomers
 - Fair fees
 
