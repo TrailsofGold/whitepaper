@@ -105,4 +105,21 @@ More examples:
 
 ## Value
 
-> TODO
+In order to reward all the users the max treasure value is recalculated every day (00:00 CET). 
+
+The max treasure value computation formula is :
+
+> $(x - X) / (2y - z)$
+
+where:
+- $x$ is the PGLDs available in reward
+- $X$ is the security margin constant, set to 20% of the PGLD in rewards
+- $y$ is the number of treasure generated last day
+- $z$ is the number of treasure generated day before yesterday
+
+Example :
+If yesterday the game generated 300 treasures, the day before yesterday the game generated 280 treasures and there is 10 000 PGLD available in rewards :
+
+$(10 000 - (10 000 * 0.2)) / (2 * 300 - 280) = 25$ PGLD
+
+In this example we saw that the max treasure value is 25 PGLD.
