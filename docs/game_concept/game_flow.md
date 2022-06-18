@@ -25,7 +25,7 @@ blockdiag {
 
 | Stage      	| Description                                                                                           	|
 |------------	|-------------------------------------------------------------------------------------------------------	|
-| Start      	| In order to start playing, the player needs to mint or buy at lest one pirate.                        	|
+| Start      	| In order to start playing, the player needs to mint or buy at least one pirate.                        	|
 | Buy        	| The player can buy more pirates, ships or items to increase his/her rewards and to ease his/her hunt. 	|
 | Crew setup 	| A player cannot start a treasure hunt until he/she has setup a crew (crew members, ship, items).      	|
 | Hunt       	| Once a player has a crew he/she can start a hunt to get rewards.                                      	|
