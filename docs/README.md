@@ -8,7 +8,7 @@ Pirate Gold tokens can then be used to buy ships, improve threir crew, or can be
 
 ## Mission
 
-**Bitcoin Pirates** is a game, and does not pretend to save the world, fight the climate change or any higher purpose.
+**Bitcoin Pirates** is a game, and does not pretend to save the world, fight the climate change or serve any higher purpose.
 
 The goals of the game are simple and clear:
 1. Have fun
