@@ -56,7 +56,7 @@ where:
 - $Y$ is an arbitrary first day PGLD minted value (20 000)
 
 PGLD per day minted example :
-- 1st day : $20 000 PGLD$
+- 1st day : $20 000$ PGLD
 - 2nd day : $(21 000 000 - 20 000) * (20 000 / 21 000 000) = 19 981$ PGLD
 - 3rd day : $(20 980 000 - 19 981) * (20 000 / 21 000 000) = 19 962$ PGLD
 
