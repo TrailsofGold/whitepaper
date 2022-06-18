@@ -1,7 +1,4 @@
-# Treasures
-
-Treasures are geolocated rewards for users.
-
+Treasures are geolocated rewards for players.
 
 A treasure is defined by :
 - A location (lon, lat)
@@ -13,7 +10,7 @@ A treasure is defined by :
 
 In VS mode treasures are spawned anywhere, at anytime.
 
-In solo mode treasures are spawned all around the user's current location when the hunt starts.
+In solo mode treasures are spawned all around the player's current location when the hunt starts.
 
 The number of spawned treasures in a hunt depend on the crew size (number of pirates in the crew) plus a random factor:
 
@@ -29,9 +26,9 @@ The number of spawned treasures in a hunt depend on the crew size (number of pir
 
 ## Location
 
-Treasures location are set in a 5km range around the user when he/she starts the hunt.
+Treasures location are set in a 5km range around the player when he/she starts the hunt.
 
-The distance to the user is influenced by the ship speed skill: the faster a ship is, the higher the probability is to have treasures closer to the user.
+The distance to the player is influenced by the ship speed skill: the faster a ship is, the higher the probability is to have treasures closer to the player.
 
 Distance computation formula is:
 
@@ -66,7 +63,7 @@ Other examples:
 
 Each treasure has an expiration delay.
 
-An expired treasure cannot be found and disappears from the user's map.
+An expired treasure cannot be found and disappears from the player's map.
 
 In VS mode a treasure has always a one day expiration delay.
 

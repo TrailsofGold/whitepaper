@@ -1,5 +1,3 @@
-# Tokenomics
-
 Pirate Gold (PGLD) is the game token.
 
 It can be used to buy ships or items. And can be changed into crypto currency as well.

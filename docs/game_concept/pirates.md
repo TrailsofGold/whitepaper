@@ -1,5 +1,3 @@
-# Pirates
-
 <p align="center">
   <img width="128" height="128" src="./img/pirate1.png">
   <img width="128" height="128" src="./img/pirate2.png">

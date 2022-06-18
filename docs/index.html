@@ -21,6 +21,7 @@
   </head>
   <body>
     <div id="app"></div>
+    <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
     <script>
 
       window.$docsify = {
@@ -39,7 +40,8 @@
           "theme": "#EE5599",
           "mode": "light",
           "debug": false
-        }
+        },
+        plugins: [EditOnGithubPlugin.create("https://github.com/bitcoin-pirates/whitepaper/main/docs")]
       }
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
@@ -56,5 +58,6 @@
     <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 
     <script src="//unpkg.com/docsify-kroki"></script>
+
   </body>
 </html>
