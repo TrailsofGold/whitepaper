@@ -1,4 +1,6 @@
 
+When the player as setup his/her crew, he/she is able to start a treasure hunt.
+
 ```blockdiag
 blockdiag {
   default_shape = roundedbox
