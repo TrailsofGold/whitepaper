@@ -2,13 +2,13 @@ Treasures are geolocated rewards for players.
 
 A treasure is defined by :
 - A location (lon, lat)
-- An expiration date
+- An expiration delay
 - A value in PGLD (the reward)
 
 
 ## Spawning
 
-In VS mode treasures are spawned anywhere, at anytime.
+### Solo mode
 
 In solo mode treasures are spawned all around the player's current location when the hunt starts.
 
@@ -23,10 +23,20 @@ The number of spawned treasures in a hunt depend on the crew size (number of pir
 | 12 to 16     	| 20 to 30           	|
 | more than 20 	| 40 to 60           	|
 
+### VS mode
+
+In VS mode treasures are spawned where the most solo mode treasures (not expired) are.
+
+A new VS mode treasure is spawned every 2 hours.
+
+If there is no VS treasure in a 5km range arround the player when he/she selects a VS mode hunt: he/she is warned that there is no treasure around, so that he/she does not waste a hunt for nothing.
+
 
 ## Location
 
-Treasures location are set in a 5km range around the player when he/she starts the hunt.
+### Solo mode
+
+In solo mode, treasures location are set in a 5km range around the player when he/she starts the hunt.
 
 The distance to the player is influenced by the ship speed skill: the faster a ship is, the higher the probability is to have treasures closer to the player.
 
@@ -58,14 +68,22 @@ Other examples:
 | 0.9          	| 4.55km           	| 2.75km           	| 0.5km            	|
 | 1.0          	| 4.5km            	| 2.5km            	| 0km              	|
 
+### VS mode
 
-## Expiration date
+In VS mode, the game system checks where the most active solo mode treasures are (clusters), and spawns a VS mode treasure in the middle.
+
+If there is already a VS mode treasure in a 10km range, the system moves to the next most "crowded" cluster, and so on.
+
+A new VS mode treasure is spawned 2 hours.
+
+
+## Expiration delay
 
 Each treasure has an expiration delay.
 
 An expired treasure cannot be found and disappears from the player's map.
 
-In VS mode a treasure has always a one day expiration delay.
+### Solo mode
 
 In solo mode, the expiration delay is computed according to the crew combat and navigaton skills, plus a random factor.
 
@@ -83,9 +101,9 @@ where:
 
 When the result is above 24 hours. It is capped to 24 hours.
 
-For a crew with a total of 250 in combat skill and 320 in navigation skill and a random ration of 0.4:
+For a crew with a total of 250 in combat skill and 320 in navigation skill and a random ratio of 0.4:
 
-($(250 + 320) * 0.4) + 30 = 258min = 4h18min$
+$((250 + 320) * 0.4) + 30 = 258min = 4h18min$
 
 More examples:
 
@@ -102,6 +120,10 @@ More examples:
 | 0.9          	| 2h            	| 8h            	| 15h30min       	|
 | 1.0          	| 2h10min       	| 8h50min       	| 17h10min       	|
 
+### VS mode
+
+In VS mode a treasure has always a 4h expiration delay.
+
 
 ## Value
 
@@ -112,14 +134,55 @@ The max treasure value computation formula is :
 > $(x - X) / (2y - z)$
 
 where:
-- $x$ is the PGLDs available in reward
+- $x$ is the amount PGLD available in rewards
 - $X$ is the security margin constant, set to 20% of the PGLD in rewards
-- $y$ is the number of treasure generated last day
+- $y$ is the number of treasure generated the previous day
 - $z$ is the number of treasure generated day before yesterday
 
 Example :
-If yesterday the game generated 300 treasures, the day before yesterday the game generated 280 treasures and there is 10 000 PGLD available in rewards :
+If yesterday the game generated 300 treasures, the day before yesterday the game generated 280 treasures and there is an amount of 10000 PGLD available in rewards :
 
-$(10 000 - (10 000 * 0.2)) / (2 * 300 - 280) = 25$ PGLD
+$(10000 - (10000 * 0.2)) / (2 * 300 - 280) = 25$ PGLD
 
-In this example we saw that the max treasure value is 25 PGLD.
+?> For more information about PGLD rewards amount, see [PGLD token](tokenomics/pgld_token.md)
+
+### Solo mode
+
+Once the max treasure value is known it is used to calculate treasure value for each treasure of the game in solo mode.
+
+The crew strategy and navigation skills are used to 
+
+The treasure value computation formula is:
+
+> $((st + nt)* (mtv / 2000)) * r$
+
+where:
+- $st$ is the strategy skill total of each pirate of the crew
+- $nt$ is the navigation skill total of each pirate of the crew
+- $mtv$ is the maximum treasure value
+- $r$ is a random ratio
+
+When result is greater than max treasure value, it is capped to max treasure value.
+
+If a crew strategy skill is 500, navigation skill is 350, max treasure value is 25 PGLD, and random ratio is 0.4, then the treasure value is:
+
+$((500 + 350) * (25 / 2000)) * 0.4 = 4.25$ PGLD
+
+More examples:
+
+| Random ratio 	| st + nt = 100 	| st + nt = 500 	| st + nt = 1000 	|
+|--------------	|---------------	|---------------	|----------------	|
+| 0.1          	| 0.13 PGLD     	| 0.63 PGLD     	| 1.25 PGLD      	|
+| 0.2          	| 0.25 PGLD     	| 1.25 PGLD     	| 2.50 PGLD      	|
+| 0.3          	| 0.38 PGLD     	| 1.88 PGLD     	| 3.75 PGLD      	|
+| 0.4          	| 0.50 PGLD     	| 2.50 PGLD     	| 5.00 PGLD      	|
+| 0.5          	| 0.63 PGLD     	| 3.13 PGLD     	| 6.25 PGLD      	|
+| 0.6          	| 0.75 PGLD     	| 3.75 PGLD     	| 7.50 PGLD      	|
+| 0.7          	| 0.88 PGLD     	| 4.38 PGLD     	| 8.75 PGLD      	|
+| 0.8          	| 1.00 PGLD     	| 5.00 PGLD     	| 10.00 PGLD     	|
+| 0.9          	| 1.13 PGLD     	| 5.63 PGLD     	| 11.25 PGLD     	|
+| 1.0           | 1.25 PGLD     	| 6.25 PGLD     	| 12.50 PGLD     	|
+
+### VS mode
+
+In VS mode,t he treasure value is always the max treasure value.

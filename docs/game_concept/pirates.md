@@ -35,6 +35,4 @@ Skills are :
 - Strategy
 - Mercy
 
-They range from 0 (minimum) to 100 (maximum) and have an impact on :
-- Treasures value
-- Treasures expiration time
+They range from 0 (minimum) to 100 (maximum) and have an impact on different actions during a hunt.
