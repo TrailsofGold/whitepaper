@@ -11,7 +11,7 @@ PGLD owned by the game is redistributed as follows:
   "data": {
     "values": [
       {"Usage": "Sold by the team and redistributed into rewards", "Pct": 0.01},
-      {"Usage": "Used for rewards", "Pct": 0.99},
+      {"Usage": "Used for rewards", "Pct": 0.99}
     ]
   },
   "encoding": {

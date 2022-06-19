@@ -19,9 +19,7 @@ The number of spawned treasures in a hunt depend on the crew size (number of pir
 | 1            	| 1 to 2             	|
 | 2 to 4       	| 4 to 8             	|
 | 4 to 8       	| 8 to 14            	|
-| 8 to 12      	| 14 to 20           	|
-| 12 to 16     	| 20 to 30           	|
-| more than 20 	| 40 to 60           	|
+| more than 20 	| 14 to 20           	|
 
 ### VS mode
 
