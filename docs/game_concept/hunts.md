@@ -55,7 +55,7 @@ The hunt ends as soon as the player finds a treasure or after 4 hours.
 
 A player cannot start a solo hunt and a VS hunt at the same time.
 
-### Rest time
+## Rest time
 
 The rest time between two hunts is deterined by the crew combat skill.
 
@@ -89,6 +89,6 @@ Other examples:
 | 1            	| 3h35min 	| 55min    	| 35min    	|
 
 
-### Crew trading during a hunt
+## Crew trading during a hunt
 
 When a hunt is in progress, the player is free to trade pirates, ship and items NFTs of his/her crew. However, those cannot be involved into another player's hunt until this one is finsihed.
