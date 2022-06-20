@@ -14,6 +14,7 @@
 * [Items](game_concept/items.md)
 * **Tokenomics**
 * [PGLD token](tokenomics/pgld_token.md)
+* [Fees & taxes](tokenomics/fees_and_taxes.md)
 * **Tech architecture**
 * [Overview](tech_architecture/overview.md)
 * [Security](tech_architecture/security.md)

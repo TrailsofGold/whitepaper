@@ -14,12 +14,12 @@ In solo mode treasures are spawned all around the player's current location when
 
 The number of spawned treasures in a hunt depend on the crew size (number of pirates in the crew) :
 
-| Crew size    	| Expected treasures 	|
-|--------------	|--------------------	|
-| 1            	| 1            	      |
-| 2      	      | 2            	      |
-| 4    	        | 4          	        |
-| 20 	          | 20           	      |
+| Crew size    	| Expected treasures |
+|--------------	|--------------------|
+| 1            	| 1            	     |
+| 2      	    | 2            	     |
+| 4    	        | 4          	     |
+| 20 	        | 20           	     |
 
 The max crew size is capped to 20.
 
@@ -42,7 +42,7 @@ The distance to the player is influenced by the ship speed skill: the faster a s
 
 Distance computation formula is:
 
-> $md - ((r * md) * (s / 10))$
+> $md - ((r * md) * (\sqrt{s} * md / 100))$
 
 where:
 - $md$ is the maximum distance (5km)
@@ -51,22 +51,22 @@ where:
 
 For example, a crew with no ship (speed = 1) and a random ratio of 0.3 gives the distance of:
 
-$5km - ((0.3 * 5km) * (1 / 10)) = 4,85km$
+$5 - ((0.3 * 5) * (\sqrt{1} * 5 / 100)) = 4.925km$
 
-Other examples:
+Other examples (rounded to 2 decimals):
 
 | Random ratio 	| Ship speed = 1 	| Ship speed = 50 	| Ship speed = 100 	|
 |--------------	|----------------	|-----------------	|------------------	|
-| 0.1          	| 4.95km         	| 4.75km          	| 4.5km            	|
-| 0.2          	| 4.9km          	| 4.5km           	| 4km             	|
-| 0.3          	| 4.85km        	| 4.25km           	| 3.5km            	|
-| 0.4          	| 4.8km            	| 4km             	| 3km              	|
-| 0.5          	| 4.75km         	| 3.75km           	| 2.5km            	|
-| 0.6          	| 4.7km         	| 3.5km            	| 2km              	|
-| 0.7          	| 4.65km           	| 3.25km           	| 1.5km            	|
-| 0.8          	| 4.6km            	| 3km              	| 1km             	|
-| 0.9          	| 4.55km           	| 2.75km           	| 0.5km            	|
-| 1.0          	| 4.5km            	| 2.5km            	| 0km              	|
+| 0.1          	| 4.98km         	| 4.82km          	| 4.75km            |
+| 0.2          	| 4.95km          	| 4.65km           	| 4.50km            |
+| 0.3          	| 4.93km        	| 4.47km           	| 4.25km            |
+| 0.4          	| 4.90km           	| 4.29km            | 4.00km            |
+| 0.5          	| 4.88km         	| 4.12km           	| 3.75km            |
+| 0.6          	| 4.85km         	| 3.94km           	| 3.50km            |
+| 0.7          	| 4.83km           	| 3.76m          	| 3.25km            |
+| 0.8          	| 4.80km           	| 3.59km            | 3.00km            |
+| 0.9          	| 4.78km           	| 3.41km           	| 2.75km            |
+| 1.0          	| 4.75km           	| 3.23km            | 2.50km            |
 
 ### VS mode
 
