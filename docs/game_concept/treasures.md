@@ -12,14 +12,16 @@ A treasure is defined by :
 
 In solo mode treasures are spawned all around the player's current location when the hunt starts.
 
-The number of spawned treasures in a hunt depend on the crew size (number of pirates in the crew) plus a random factor:
+The number of spawned treasures in a hunt depend on the crew size (number of pirates in the crew) :
 
 | Crew size    	| Expected treasures 	|
 |--------------	|--------------------	|
-| 1            	| 1 to 2             	|
-| 2 to 4       	| 4 to 8             	|
-| 4 to 8       	| 8 to 14            	|
-| more than 20 	| 14 to 20           	|
+| 1            	| 1            	      |
+| 2      	      | 2            	      |
+| 4    	        | 4          	        |
+| 20 	          | 20           	      |
+
+The max crew size is capped to 20.
 
 ### VS mode
 
