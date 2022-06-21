@@ -13,7 +13,10 @@
 * [Ships](game_concept/ships.md)
 * [Items](game_concept/items.md)
 * **Tokenomics**
+* [Dual token system](tokenomics/dual_token.md)
 * [PGLD token](tokenomics/pgld_token.md)
+* [PRBT token](tokenomics/prbt_token.md)
+* [Token distribution](tokenomics/token_distribution.md)
 * [Fees & taxes](tokenomics/fees_and_taxes.md)
 * **Tech architecture**
 * [Overview](tech_architecture/overview.md)

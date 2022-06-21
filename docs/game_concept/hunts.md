@@ -39,15 +39,15 @@ A solo hunt can be started when :
 
 A solo hunt ends when all treasures expire.
 
-When starting a solo hunt , the game system spawns several treasures around the player location, and everytime he/she reaches this physical location he/she is rewarded with PGLD.
+When starting a solo hunt, the game system spawns several treasures around the player location, and everytime he/she reaches this physical location he/she is rewarded with PGLD and PRBT.
 
-While moving towards treasure locations players may discover ship wrecks containing pirates and / or PGLD tokens.
+While moving towards treasure locations players may discover ship wrecks containing pirates and / or PGLD tokens and PRBT.
 
 Players can see treasures on their map, but have to "pole" to see ship wrecks.
 
 ### VS hunt
 
-In VS hunt mode, players have to find the same treasures, and the first reaching the location wins all the PGLD (winner takes all). 
+In VS hunt mode, players have to find the same treasures, and the first reaching the location wins all the PGLD (winner takes all), as well as PRBT. 
 
 The VS hunt treasure value is greater than the solo hunt treasure.
 

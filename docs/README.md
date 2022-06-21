@@ -6,6 +6,8 @@ Players buy pirates NFTs to build their crew and go hunting for treasures of Pir
 
 Pirate Gold tokens can then be used to buy ships, improve threir crew, or can be cashed out at anytime for profit.
 
+The game is available as a smartphone app on iOS and Android.
+
 ## Mission
 
 **Bitcoin Pirates** is a game, and does not pretend to save the world, fight the climate change or serve any higher purpose.

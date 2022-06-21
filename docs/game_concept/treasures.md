@@ -5,6 +5,7 @@ A treasure is defined by :
 - An expiration delay
 - A value in PGLD (the reward)
 
+Everytime a player finds a treasure he/she gets a fixed amount of PRBT as well.
 
 ## Spawning
 

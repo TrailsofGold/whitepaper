@@ -17,7 +17,7 @@ Player is subject to network fees when:
 
 ## Mint tax
 
-Every time a player mints a pirate, a ship or an item, a tax of 3% is taken from the mint price.
+Every time a player mints a pirate, a ship or an item, a tax of **3%** is taken from the mint price.
 
 This tax is used to:
 - Finance the game development and maintenance 

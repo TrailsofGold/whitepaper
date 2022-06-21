@@ -11,6 +11,8 @@ A ship wreck is defined by :
 
 Ship wreck are only available in solo mode.
 
+Everytime a player finds a ship wreck he/she gets a fixed amount of PRBT as well.
+
 ## Wreck polling
 
 In order to reveal a ship wreck on the map, the player needs to "poll" (by explicitly clicking a button on the map).

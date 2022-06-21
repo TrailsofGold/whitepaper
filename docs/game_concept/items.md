@@ -1,6 +1,6 @@
 A crew overall skills can be enhanced by buying items.
 
-Like ships, items are NFTs that can be bought using PGLD.
+Like ships, items are NFTs that can be bought but with PRBT only.
 
 As an example: buying a telescope improves the crew navigation skill.
 
@@ -16,5 +16,3 @@ As an example:
 | 4 to 7      	    | 1                |
 | 8 to 11    	    | 2    	           |
 
-
-> TODO - List all items and their uses (which characteristics it upgrades, etc...) / Is it linked to a Pirate or a ship ?
