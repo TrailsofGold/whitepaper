@@ -52,13 +52,13 @@ PGLD mint value per day formula is:
 where:
 - $x$ is the remaining supply mintable ($MAX SUPPLY - CIRCULATING SUPPLY$)
 - $y$ is the last day minted PGLD 
-- $X$ is an arbitrary first day PGLD minted value (20 000)
+- $X$ is an arbitrary first day PGLD minted value (15 000)
 - $Y$ is the max supply (21 000 000)
 
 PGLD per day minted example :
-- 1st day : $20 000$ PGLD
-- 2nd day : $(21 000 000 - 20 000) * (20 000 / 21 000 000) = 19 981$ PGLD
-- 3rd day : $(20 980 000 - 19 981) * (20 000 / 21 000 000) = 19 962$ PGLD
+- 1st day : $15 000$ PGLD
+- 2nd day : $(21 000 000 - 15 000) * (15 000 / 21 000 000) = 14 989$ PGLD
+- 3rd day : $(20 985 000 - 14 989) * (15 000 / 21 000 000) = 14 978$ PGLD
 
 On the first 4000 days, this gives:
 
