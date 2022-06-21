@@ -25,7 +25,7 @@ where:
 PGLD per day minted example :
 - 1st day : $15 000$ PGLD
 - 2nd day : $(21 000 000 - 15 000) * (15 000 / 21 000 000) = 14 989$ PGLD
-- 3rd day : $(20 995 000 - 14 989) * (5 000 / 21 000 000) = 14 978$ PGLD
+- 3rd day : $(20 985 000 - 14 989) * (15 000 / 21 000 000) = 14 978$ PGLD
 
 On the first 3000 days, this gives:
 
