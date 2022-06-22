@@ -21,6 +21,7 @@ rectangle "Backend" {
 }
 rectangle "Blockchain" {
   [PGLD]
+  [PRBT]
   [Pirates]
   [Ships]
   [Items]
@@ -37,7 +38,8 @@ Backend --> Blockchain
 
 ## Smart contracts
 
-- PGLDToken (ERC20): token contract
+- PGLDToken (ERC20): value token contract
+- PRBTToken (ERC20): in-game utility contract
 - Pirate (ERC1155): handles pirate NFTs and performs random minting
 - Ship (ERC1155): handles ship NFTs and performs random minting
 - Item (ERC1155): handles item NFTs and performs random minting

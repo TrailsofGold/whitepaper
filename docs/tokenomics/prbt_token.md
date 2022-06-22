@@ -1,4 +1,4 @@
-Pirate Rhum Bottle Token (PRBT) is the in-game token.
+Pirate Rhum Bottle Token (PRBT) is the in-game utility token.
 
 It has an unlimited supply and can be burn.
 

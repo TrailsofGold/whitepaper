@@ -30,14 +30,14 @@ In VS mode treasures are spawned where the most solo mode treasures (not expired
 
 A new VS mode treasure is spawned every 2 hours.
 
-If there is no VS treasure in a 5km range arround the player when he/she selects a VS mode hunt: he/she is warned that there is no treasure around, so that he/she does not waste a hunt for nothing.
+If there is no VS treasure in a 2.5km range arround the player when he/she selects a VS mode hunt: he/she is warned that there is no treasure around, so that he/she does not waste a hunt for nothing.
 
 
 ## Location
 
 ### Solo mode
 
-In solo mode, treasures location are set in a 5km range around the player when he/she starts the hunt.
+In solo mode, treasures location are set in a 2.5km range around the player when he/she starts the hunt.
 
 The distance to the player is influenced by the ship speed skill: the faster a ship is, the higher the probability is to have treasures closer to the player.
 
@@ -46,28 +46,28 @@ Distance computation formula is:
 > $md - ((r * md) * (\sqrt{s} * md / 100))$
 
 where:
-- $md$ is the maximum distance (5km)
+- $md$ is the maximum distance (2.5km)
 - $r$ is a random ratio
 - $s$ is the ship speed
 
 For example, a crew with no ship (speed = 1) and a random ratio of 0.3 gives the distance of:
 
-$5 - ((0.3 * 5) * (\sqrt{1} * 5 / 100)) = 4.925km$
+$2.5 - ((0.3 * 2.5) * (\sqrt{1} * 2.5 / 100)) = 4.925km$
 
 Other examples (rounded to 2 decimals):
 
 | Random ratio 	| Ship speed = 1 	| Ship speed = 50 	| Ship speed = 100 	|
 |--------------	|----------------	|-----------------	|------------------	|
-| 0.1          	| 4.98km         	| 4.82km          	| 4.75km            |
-| 0.2          	| 4.95km          	| 4.65km           	| 4.50km            |
-| 0.3          	| 4.93km        	| 4.47km           	| 4.25km            |
-| 0.4          	| 4.90km           	| 4.29km            | 4.00km            |
-| 0.5          	| 4.88km         	| 4.12km           	| 3.75km            |
-| 0.6          	| 4.85km         	| 3.94km           	| 3.50km            |
-| 0.7          	| 4.83km           	| 3.76m          	| 3.25km            |
-| 0.8          	| 4.80km           	| 3.59km            | 3.00km            |
-| 0.9          	| 4.78km           	| 3.41km           	| 2.75km            |
-| 1.0          	| 4.75km           	| 3.23km            | 2.50km            |
+| 0.1          	| 2.49km         	| 2.46km          	| 2.44km            |
+| 0.2          	| 2.49km          	| 2.41km           	| 2.38km            |
+| 0.3          	| 2.48km        	| 2.37km           	| 2.31km            |
+| 0.4          	| 2.48km           	| 2.32km            | 2.25km            |
+| 0.5          	| 2.47km         	| 2.28km           	| 2.19km            |
+| 0.6          	| 2.46km         	| 2.23km           	| 2.13km            |
+| 0.7          	| 2.46km           	| 2.19m          	| 2.06km            |
+| 0.8          	| 2.45km           	| 2.15km            | 2.00km            |
+| 0.9          	| 2.44km           	| 2.10km           	| 1.94km            |
+| 1.0          	| 2.44km           	| 2.06km            | 1.88km            |
 
 ### VS mode
 
