@@ -1,17 +1,21 @@
-> TODO: update
+PGLD is minted on game launch to a Smart Contract and unlocked following a pre-determined schedule on a 5 years period.
 
-> Check https://www.bnbchain.org/en/blog/sustainable-gamefi-to-play-or-to-earn/
+Total PGLD supply is **21 000 000**.
 
-PGLD owned by the game is redistributed as follows:
+## Allocation
 
 ```vegalite
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "PGLD game redistribution.",
+  "description": "PGLD token distribution.",
   "data": {
     "values": [
-      {"Usage": "Sold by the team and redistributed into rewards", "Pct": 0.01},
-      {"Usage": "Used for rewards", "Pct": 0.99}
+      {"Usage": "Play & Earn", "Pct": 0.35},
+      {"Usage": "Ecosystem fund", "Pct": 0.25},
+      {"Usage": "Team", "Pct": 0.15},
+      {"Usage": "Private sale", "Pct": 0.10},
+      {"Usage": "Public sale", "Pct": 0.05},
+      {"Usage": "Liquidity provision", "Pct": 0.10}
     ]
   },
   "encoding": {
@@ -34,3 +38,16 @@ PGLD owned by the game is redistributed as follows:
   }]
 }
 ```
+
+| Allocation          	| Share 	| Amount    	| Unlock rule    	|
+|---------------------	|-------	|-----------	|-----	|
+| Play & Earn         	| 35%   	| 7 350 000 	| TBD 	|
+| Ecosystem fund      	| 25%   	| 5 250 000 	| TBD 	|
+| Team                	| 15%   	| 3 150 000 	| TBD 	|
+| Private sale        	| 10%   	| 2 100 000 	| TBD 	|
+| Public sale         	| 5%    	| 1 050 000 	| TBD 	|
+| Liquidity provision 	| 10%   	| 2 100 000 	| TBD 	|
+
+## Unlock schedule
+
+> TBD

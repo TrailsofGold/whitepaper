@@ -12,6 +12,7 @@
 * [Pirates](game_concept/pirates.md)
 * [Ships](game_concept/ships.md)
 * [Items](game_concept/items.md)
+* [Future concepts](game_concept/future_concepts.md)
 * **Tokenomics**
 * [Dual token system](tokenomics/dual_token.md)
 * [PGLD token](tokenomics/pgld_token.md)
