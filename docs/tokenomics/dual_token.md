@@ -6,7 +6,7 @@ Players need at least one pirate to start earning PGLD and PRBT, however as the 
 
 Both tokens are used to mint new features for the crew:
 - PGLD and PRBT are required to mint a ship
-- PRBT only is requires to mint new crew items
+- PRBT only is required to mint new crew items
 
 !> Pirates however can only be minted with the blockchain coin.
 
