@@ -41,13 +41,15 @@ Total PGLD supply is **21 000 000**.
 
 | Allocation          	| Share 	| Amount    	| Unlock rule    	|
 |---------------------	|-------	|-----------	|-----	|
-| Play & Earn         	| 35%   	| 7 350 000 	| TBD 	|
-| Ecosystem fund      	| 25%   	| 5 250 000 	| TBD 	|
-| Team                	| 15%   	| 3 150 000 	| TBD 	|
-| Private sale        	| 10%   	| 2 100 000 	| TBD 	|
-| Public sale         	| 5%    	| 1 050 000 	| TBD 	|
-| Liquidity provision 	| 10%   	| 2 100 000 	| TBD 	|
+| Play & Earn         	| 35%   	| 7 350 000 	| 7% unlocked on game start.<br/>Then degressive unlock after 30 days. 	|
+| Ecosystem fund      	| 25%   	| 5 250 000 	| 30% unlocked on game start.<br/>Then linear unlock after 30 days. 	|
+| Team                	| 15%   	| 3 150 000 	| 20% unlocked on game start.<br/>Then linear unlock after 300 days. 	|
+| Private sale        	| 10%   	| 2 100 000 	| Linear unlock every 200 days. 	|
+| Public sale         	| 5%    	| 1 050 000 	| 30% unlocked on game start.<br/>Then linear unlock after 30 days on 200 days. 	|
+| Liquidity provision 	| 10%   	| 2 100 000 	| 10% unlocked on game start.<br/>Then linear unlock after 30 days. 	|
 
 ## Unlock schedule
+
+Unlock updates occur every 30 days.
 
 > TBD

@@ -1,8 +1,8 @@
 The game works with an hybrid on-chain / off-chain architecture.
 
-Player assets (pirates, ships, items, PGLD) are stored on-chain, as well as rewards (treasures and ship wrecks) in order to make sure the player stays in control all the time.
+Player assets (pirates, ships, items, PGLD, RBT) are stored on-chain in order to make sure the player stays in control all the time.
 
-Game logic, however is run off-chain like hunts and crew management, geolocation checking, ...
+Game logic, however is run off-chain like hunts and crew management, geolocation checking, rewards calculation...
 
 ```plantuml
 skinparam monochrome true
@@ -18,6 +18,7 @@ rectangle "Backend" {
   [Hunt]
   [Crew]
   [Geolocation]
+  [Rewards calculation]
 }
 rectangle "Blockchain" {
   [PGLD]
@@ -35,7 +36,7 @@ Backend --> Blockchain
 
 ```
 
-## Smart contracts
+## Game smart contracts
 
 - PGLDToken (ERC20): value token contract
 - PRBTToken (ERC20): in-game utility contract
@@ -43,4 +44,3 @@ Backend --> Blockchain
 - Ship (ERC1155): handles ship NFTs and performs random minting
 - Item (ERC1155): handles item NFTs and performs random minting
 - Shop: responsible on handling mint sales for every kind of NFT
-- RewardVault: locked rewards (content of treasures or ship wrecks), that can be unlocked only with a private key
