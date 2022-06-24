@@ -9,11 +9,9 @@ Network fees are necessary to execute transactions (write operations) on the blo
 
 The gas price varies over time, as it mostly depends on network usage.
 
-Player is subject to network fees when:
-- Minting a pirate, ship or item
-- Claiming treasures and ship wrecks
+Player is only subject to network fees when minting a pirate, ship or item
 
-?> Reward vault creation fees are directly charged to the game
+?> Reward distribution is directly charged to the game
 
 ## Mint tax
 

@@ -25,7 +25,6 @@ rectangle "Blockchain" {
   [Pirates]
   [Ships]
   [Items]
-  [Reward vaults]
   [Shop]
 }
 rectangle "<b>player</b>" as Player
