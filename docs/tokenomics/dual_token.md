@@ -11,5 +11,5 @@ Both tokens are used to mint new features for the crew:
 !> Pirates however can only be minted with the blockchain coin.
 
 Such a dual token mechanism ensures a balance between early game players and new comers:
-- Early players need to stay involved in the game n order to progress
+- Early players need to stay involved in the game in order to progress
 - New comers can keep a descend progression path without the need to pay too much

@@ -21,4 +21,4 @@ This tax is used to:
 - Finance the game development and maintenance 
 - Reward the game creators, investors and contributors
 
-Example: if a pirate is minted for a price of 500, the tax is 15. The rest (485) is put in the game, mostly for reward distribution.
+Example: if a pirate is minted for a price of 10, the tax is 0.3. The rest (9.7) is put in the game, mostly for reward distribution.

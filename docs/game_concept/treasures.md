@@ -52,7 +52,7 @@ where:
 
 For example, a crew with no ship (speed = 1) and a random ratio of 0.3 gives the distance of:
 
-$2.5 - ((0.3 * 2.5) * (\sqrt{1} * 2.5 / 100)) = 4.925km$
+$2.5 - ((0.3 * 2.5) * (\sqrt{1} * 2.5 / 100)) = 2.48km$
 
 Other examples (rounded to 2 decimals):
 
@@ -137,8 +137,8 @@ The max treasure value computation formula is :
 where:
 - $x$ is the amount PGLD available in rewards
 - $X$ is the security margin constant, set to 20% of the PGLD in rewards
-- $y$ is the number of treasure generated the previous day
-- $z$ is the number of treasure generated day before yesterday
+- $y$ is the number of treasures generated the previous day
+- $z$ is the number of treasures generated day before yesterday
 
 Example :
 If yesterday the game generated 300 treasures, the day before yesterday the game generated 280 treasures and there is an amount of 10000 PGLD available in rewards :

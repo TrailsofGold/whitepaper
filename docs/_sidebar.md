@@ -18,6 +18,7 @@
 * [PGLD token](tokenomics/pgld_token.md)
 * [PRBT token](tokenomics/prbt_token.md)
 * [Token distribution](tokenomics/token_distribution.md)
+* [Prices](tokenomics/prices.md)
 * [Fees & taxes](tokenomics/fees_and_taxes.md)
 * **Tech architecture**
 * [Overview](tech_architecture/overview.md)
