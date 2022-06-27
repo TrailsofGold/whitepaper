@@ -1,6 +1,6 @@
 The game works on a dual token system:
 - The Pirate Gold Token (PGLD) is the value token of the game
-- The Pirate Rhum Bottle Token (PRBT) is the in-game utility token used to materialize player engagement
+- The Pirate Rum Bottle Token (PRBT) is the in-game utility token used to materialize player engagement
 
 Players need at least one pirate to start earning PGLD and PRBT, however as the PGLD rewards depend on the crew size and skills, PRBT rewards are the same for every player.
 

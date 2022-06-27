@@ -16,6 +16,6 @@ When treasures expire, the player has to wait until he/she can start a new hunt 
 
 ## Get rewarded
 
-Players get rewarded with PGLD and PRBT (Pirate Rhum Bottle Token) everytime they physically reach a treasure location.
+Players get rewarded with PGLD and PRBT (Pirate Rum Bottle Token) everytime they physically reach a treasure location.
 
 PGLD and/or PRBT can be used to increase the crew skills and capabilities (with ships and items) or can be cashed out (PGLD only).
