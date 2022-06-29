@@ -1,4 +1,20 @@
-Ships are NFTs that can be bought by players with PGLD.
+<p align="center">
+  <img width="128" height="128" src="./img/ship1.png">
+  <img width="128" height="128" src="./img/ship2.png">
+  <img width="128" height="128" src="./img/ship3.png">
+  <img width="128" height="128" src="./img/ship4.png">
+</p>
+
+Ships are NFTs that can be bought by players with PGLD and PRBT.
+
+## Seasons
+
+Ships NFTs are gathered into collections (Smart Contracts) named "seasons".
+
+Each season provides a set of ships, and each ship comes as a limited edition where the supply varies according to its skills (the best the skills are, the rarest the pirate is).
+
+
+## Skills
 
 Ships skills are:
 - Speed
@@ -21,9 +37,9 @@ Some types are more common than others (gen occurrence).
 
 | Type       	| Capacity 	| Speed  	| Armament 	| Gen occurrence 	|
 |------------	|----------	|--------	|----------	|-----------------	|
-| Sloop      	| 4-6      	| 20-100 	| 10-60    	| 10              	|
-| Schooner   	| 5-10     	| 20-90 	| 10-70    	| 7               	|
-| Brigantine 	| 10-15    	| 15-80 	| 15-100   	| 3               	|
+| Sloop      	| 4-6      	| 10-100 	| 10-60    	| 10              	|
+| Schooner   	| 5-10     	| 10-90 	| 10-70    	| 7               	|
+| Brigantine 	| 10-15    	| 10-80 	| 15-100   	| 3               	|
 | Frigate    	| 15-20    	| 10-75  	| 20-100   	| 2               	|
 
 ## Rarity level
@@ -55,6 +71,6 @@ If mixed with ship type, the sum of occurences are:
 $571 * 10 + 571 * 7 + 571 * 3 + 571 * 2 = 12 562$
 
 Meaning that a player has :
-- a chance ( 1 * 2) out of 12 562 to get a legendary Frigate
+- 2 chances ( 1 * 2) out of 12 562 to get a legendary Frigate
 - 30 chances (3 * 10) out of 12 562 to get an epic Brigantine
 - 1000 chances out of 12 562 to get a common Sloop
