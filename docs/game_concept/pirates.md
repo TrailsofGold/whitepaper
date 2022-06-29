@@ -15,14 +15,14 @@ Each season provides a set of pirates, and each pirate comes as a limited editio
 
 Each season contains pirate of diffrent rarity levels. The rarest a pirate is, the best his skills are.
 
-| Level     | Sum of skill points | Mint occurence |
+| Level     | Sum of skill points | Mint occurrence |
 |-----------|---------------------|----------------|
 | Common    | 100                 | 100            |
 | Rare      | 150                 | 50             |
 | Epic      | 250                 | 10             |
 | Legendary | 350                 | 1              |
 
-For example, if a season has 4 common pirate, 3 rare pirate, 2 epic pirate and 1 legendary pirate, the sum of occurences are:
+For example, if a season has 4 common pirates, 3 rare pirates, 2 epic pirates and 1 legendary pirate, the sum of occurrences are:
 
 $4 * 100 + 3 * 50 + 2 * 10 + 1 = 571$
 

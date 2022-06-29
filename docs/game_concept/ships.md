@@ -10,3 +10,51 @@ Speed and Armament affect the game mechanics as Capacity gives the maximum crew 
 If a player has more pirates that his/her ship capacity he/she can modify his/her crew composition in between each treasure hunt.
 
 He/she can also sell or trade pirates that he/she does not use.
+
+## Types
+
+Ships can be be of different types.
+
+The ship type as an incident on its caracterics. 
+
+Some types are more common than others (mint occurrence).
+
+| Type       	| Capacity 	| Speed  	| Armament 	| Mint occurrence 	|
+|------------	|----------	|--------	|----------	|-----------------	|
+| Sloop      	| 4-6      	| 20-100 	| 10-60    	| 10              	|
+| Schooner   	| 5-10     	| 20-95 	| 10-70    	| 7               	|
+| Brigantine 	| 10-15    	| 15-90 	| 15-100   	| 3               	|
+| Frigate    	| 15-20    	| 10-80  	| 20-100   	| 1               	|
+
+## Rarity level
+
+Like pirates, ship types have rarity levels. The rarest a ship is, the best its skills are.
+
+Ships skill point are speed and armament.
+
+| Level     | Sum of skill points | Mint occurrence|
+|-----------|---------------------|----------------|
+| Common    | 40                  | 100            |
+| Rare      | 185                 | 50             |
+| Epic      | 95                  | 10             |
+| Legendary | 175                 | 1              |
+
+
+For example if the season has 4 common ships, 3 rare ships, 2 epic ships and 1 legendary ship, the sum of occurrences are:
+
+$4 * 100 + 3 * 50 + 2 * 10 + 1 = 571$
+
+Meaning that a player has :
+- a chance out of 571 to get a common ship
+- 20 chances out of 571 to get an epic ship
+- 150 chances out of 571 to get a rare ship
+- 400 chances out of 571 to get a common ship
+
+If mixed with ship type, the sum of occurences are:
+
+$571 * 10 + 571 * 7 + 571 * 3 + 571 = 11 991$
+
+Meaning that a player has :
+- a chance ( 1 * 1) out of 11 991 to get a legendary Frigate
+- 30 chances (3 * 10) out of 11 991 to get an epic Brigantine
+- 1000 chances out of 11 991 to get a common Sloop
