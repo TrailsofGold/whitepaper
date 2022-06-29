@@ -17,14 +17,14 @@ Ships can be be of different types.
 
 The ship type as an incident on its caracterics. 
 
-Some types are more common than others (mint occurrence).
+Some types are more common than others (gen occurrence).
 
-| Type       	| Capacity 	| Speed  	| Armament 	| Mint occurrence 	|
+| Type       	| Capacity 	| Speed  	| Armament 	| Gen occurrence 	|
 |------------	|----------	|--------	|----------	|-----------------	|
 | Sloop      	| 4-6      	| 20-100 	| 10-60    	| 10              	|
-| Schooner   	| 5-10     	| 20-95 	| 10-70    	| 7               	|
-| Brigantine 	| 10-15    	| 15-90 	| 15-100   	| 3               	|
-| Frigate    	| 15-20    	| 10-80  	| 20-100   	| 1               	|
+| Schooner   	| 5-10     	| 20-90 	| 10-70    	| 7               	|
+| Brigantine 	| 10-15    	| 15-80 	| 15-100   	| 3               	|
+| Frigate    	| 15-20    	| 10-75  	| 20-100   	| 2               	|
 
 ## Rarity level
 
@@ -35,7 +35,7 @@ Ships skill point are speed and armament.
 | Level     | Sum of skill points | Mint occurrence|
 |-----------|---------------------|----------------|
 | Common    | 40                  | 100            |
-| Rare      | 185                 | 50             |
+| Rare      | 70                  | 50             |
 | Epic      | 95                  | 10             |
 | Legendary | 175                 | 1              |
 
@@ -52,9 +52,9 @@ Meaning that a player has :
 
 If mixed with ship type, the sum of occurences are:
 
-$571 * 10 + 571 * 7 + 571 * 3 + 571 = 11 991$
+$571 * 10 + 571 * 7 + 571 * 3 + 571 * 2 = 12 562$
 
 Meaning that a player has :
-- a chance ( 1 * 1) out of 11 991 to get a legendary Frigate
-- 30 chances (3 * 10) out of 11 991 to get an epic Brigantine
-- 1000 chances out of 11 991 to get a common Sloop
+- a chance ( 1 * 2) out of 12 562 to get a legendary Frigate
+- 30 chances (3 * 10) out of 12 562 to get an epic Brigantine
+- 1000 chances out of 12 562 to get a common Sloop
