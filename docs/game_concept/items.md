@@ -1,3 +1,12 @@
+<p align="center">
+  <img width="128" height="128" src="./img/item1.png">
+  <img width="128" height="128" src="./img/item2.png">
+  <img width="128" height="128" src="./img/item3.png">
+  <img width="128" height="128" src="./img/item4.png">
+</p>
+
+
+
 A crew overall skills can be enhanced by buying items.
 
 Like ships, items are NFTs that can be bought but with PRBT only.
@@ -25,6 +34,7 @@ Like other game objects, items have a rarity level.
 | Big Gun             | Armament + 5   | Armament + 10   | Armament + 15   | Armament + 20   |
 | Voodoo Doll         | Strategy + 5   | Strategy + 10   | Strategy + 15   | Strategy + 20   |
 | Parrot              | Mercy + 5      | Mercy + 10      | Mercy + 15      | Mercy + 20      |
+| Magic Apple         | Combat + 5     | Combat + 10     | Combat + 15     | Combat + 20     |
 
 ## Max items per crew
 
