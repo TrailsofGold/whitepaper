@@ -29,9 +29,9 @@ He/she can also sell or trade pirates that he/she does not use.
 
 ## Types
 
-Ships can be be of different types.
+Ships can be of different types.
 
-The ship type as an incident on its caracterics. 
+The ship type as an incidence on its caracterics. 
 
 Some types are more common than others (gen occurrence).
 
