@@ -9,7 +9,7 @@
 
 Pirates NFTs are gathered into collections (Smart Contracts) named "seasons".
 
-Each season provides a set of pirates, and each pirate comes as a limited edition where the supply varies according to his skills (the best the skills are, the rarest the pirate is).
+Each season provides a set of pirates, and each pirate has a variable mint occurence according to his skills (the best the skills are, the rarest the pirate is).
 
 ## Rarity level
 

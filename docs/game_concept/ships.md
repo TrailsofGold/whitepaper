@@ -11,7 +11,7 @@ Ships are NFTs that can be bought by players with PGLD and PRBT.
 
 Ships NFTs are gathered into collections (Smart Contracts) named "seasons".
 
-Each season provides a set of ships, and each ship comes as a limited edition where the supply varies according to its skills (the best the skills are, the rarest the pirate is).
+Each season provides a set of ships, and each ship has a variable mint occurrence according to its skills (the best the skills are, the rarest the pirate is).
 
 
 ## Skills
