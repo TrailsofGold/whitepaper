@@ -15,6 +15,7 @@
 * [Future concepts](game_concept/future_concepts.md)
 * **Tokenomics**
 * [Dual token system](tokenomics/dual_token.md)
+* [Token flow](tokenomics/token_flow.md)
 * [PGLD token](tokenomics/pgld_token.md)
 * [PRBT token](tokenomics/prbt_token.md)
 * [Token distribution](tokenomics/token_distribution.md)
