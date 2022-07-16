@@ -11,7 +11,7 @@ Ships are NFTs that can be bought by players with PGLD and PRBT.
 
 Ships NFTs are gathered into collections (Smart Contracts) named "seasons".
 
-Each season provides a set of ships, and each ship has a variable mint occurrence according to its skills (the best the skills are, the rarest the pirate is).
+Each season provides a set of ships, and each ship has a variable mint occurence according to its skills (the best the skills are, the rarest the pirate is).
 
 
 ## Skills
@@ -33,9 +33,9 @@ Ships can be of different types.
 
 The ship type as an incidence on its caracterics. 
 
-Some types are more common than others (gen occurrence).
+Some types are more common than others (gen occurence).
 
-| Type       	| Capacity 	| Speed  	| Armament 	| Gen occurrence 	|
+| Type       	| Capacity 	| Speed  	| Armament 	| Gen occurence 	|
 |------------	|----------	|--------	|----------	|-----------------	|
 | Sloop      	| 4-6      	| 10-100 	| 10-60    	| 10              	|
 | Schooner   	| 5-10     	| 10-90 	| 10-70    	| 7               	|
@@ -48,7 +48,7 @@ Like pirates, ship types have rarity levels. The rarest a ship is, the best its 
 
 Ships skill point are speed and armament.
 
-| Level     | Sum of skill points | Mint occurrence|
+| Level     | Sum of skill points | Mint occurence|
 |-----------|---------------------|----------------|
 | Common    | 40                  | 100            |
 | Rare      | 70                  | 50             |
@@ -56,7 +56,7 @@ Ships skill point are speed and armament.
 | Legendary | 175                 | 1              |
 
 
-For example if the season has 4 common ships, 3 rare ships, 2 epic ships and 1 legendary ship, the sum of occurrences are:
+For example if the season has 4 common ships, 3 rare ships, 2 epic ships and 1 legendary ship, the sum of occurences are:
 
 $4 * 100 + 3 * 50 + 2 * 10 + 1 = 571$
 
