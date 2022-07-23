@@ -42,12 +42,12 @@ The number of available slots depends on the capacity skill of your ship. You un
 
 As an example: 
 
-| Ship Capacity    	| Slot items 	   |
+| Ship Capacity    	| Slot items 	     |
 |-------------------|------------------|
 | 0 to 3            | 0            	   |
 | 4 to 7      	    | 1                |
-| 8 to 11    	    | 2    	           |
+| 8 to 11    	      | 2    	           |
 | 12 to 15    	    | 3    	           |
-| 15 to 20    	    | 4    	           |
+| 16 to 20    	    | 4    	           |
 
 

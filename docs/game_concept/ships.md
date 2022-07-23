@@ -35,7 +35,7 @@ The ship type as an incidence on its caracterics.
 
 Some types are more common than others (gen occurence).
 
-| Type       	| Capacity 	| Speed  	| Armament 	| Gen occurence 	|
+| Type       	| Capacity 	| Speed  	| Armament 	| Gen occurence 	  |
 |------------	|----------	|--------	|----------	|-----------------	|
 | Sloop      	| 4-6      	| 10-100 	| 10-60    	| 10              	|
 | Schooner   	| 5-10     	| 10-90 	| 10-70    	| 7               	|
@@ -50,27 +50,27 @@ Ships skill point are speed and armament.
 
 | Level     | Sum of skill points | Mint occurence|
 |-----------|---------------------|----------------|
-| Common    | 40                  | 100            |
-| Rare      | 70                  | 50             |
-| Epic      | 95                  | 10             |
-| Legendary | 175                 | 1              |
+| Common    | 40                  | 60             |
+| Rare      | 70                  | 35             |
+| Epic      | 95                  | 30             |
+| Legendary | 175                 | 25             |
 
 
 For example if the season has 4 common ships, 3 rare ships, 2 epic ships and 1 legendary ship, the sum of occurences are:
 
-$4 * 100 + 3 * 50 + 2 * 10 + 1 = 571$
+$4 * 60 + 3 * 35 + 2 * 30 + 25 = 430$
 
 Meaning that a player has :
-- a chance out of 571 to get a common ship
-- 20 chances out of 571 to get an epic ship
-- 150 chances out of 571 to get a rare ship
-- 400 chances out of 571 to get a common ship
+- 25 chances out of 430 to get a lengendary ship
+- 60 chances out of 430 to get an epic ship
+- 105 chances out of 430 to get a rare ship
+- 240 chances out of 430 to get a common ship
 
 If mixed with ship type, the sum of occurences are:
 
-$571 * 10 + 571 * 7 + 571 * 3 + 571 * 2 = 12 562$
+$430 * 10 + 430 * 7 + 430 * 3 + 430 * 2 = 9 460$
 
 Meaning that a player has :
-- 2 chances ( 1 * 2) out of 12 562 to get a legendary Frigate
-- 30 chances (3 * 10) out of 12 562 to get an epic Brigantine
-- 1000 chances out of 12 562 to get a common Sloop
+- 50 chances ( 25 * 2) out of 9 460 to get a legendary Frigate
+- 90 chances (30 * 3) out of 9 460 to get an epic Brigantine
+- 600 chances (10 * 60) out of 9 460 to get a common Sloop
