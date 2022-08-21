@@ -132,7 +132,7 @@ In order to reward all the users the max treasure value is recalculated every da
 
 The max treasure value computation formula is :
 
-> $(x - X) / (abs(2y - z)+1)$
+> $(x - X) / (abs(2y - z) + 1)$
 
 where:
 - $x$ is the amount PGLD available in rewards
@@ -143,7 +143,7 @@ where:
 Example :
 If yesterday the game generated 300 treasures, the day before yesterday the game generated 280 treasures and there is an amount of 10000 PGLD available in rewards :
 
-$(10000 - (10000 * 0.2)) / (2 * 300 - 280) = 25$ PGLD
+$(10000 - (10000 * 0.2)) / (abs(2 * 300 - 280) + 1) = 24.92$ PGLD
 
 ?> For more information about PGLD rewards amount, see [PGLD token](tokenomics/pgld_token.md)
 
