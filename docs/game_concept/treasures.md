@@ -30,44 +30,45 @@ In VS mode treasures are spawned where the most solo mode treasures (not expired
 
 A new VS mode treasure is spawned every 2 hours.
 
-If there is no VS treasure in a 2.5km range arround the player when he/she selects a VS mode hunt: he/she is warned that there is no treasure around, so that he/she does not waste a hunt for nothing.
+If there is no VS treasure in a 1.5km range arround the player when he/she selects a VS mode hunt: he/she is warned that there is no treasure around, so that he/she does not waste a hunt for nothing.
 
 
 ## Location
 
 ### Solo mode
 
-In solo mode, treasures location are set in a 2.5km range around the player when he/she starts the hunt.
+In solo mode, treasures location are set in a 1.5km range around the player when he/she starts the hunt.
 
 The distance to the player is influenced by the ship speed skill: the faster a ship is, the higher the probability is to have treasures closer to the player.
 
 Distance computation formula is:
 
-> $md - ((r * md) * (\sqrt{s} * md / 100))$
+> $md - ((r * md) * (\sqrt{s * 10} * md / 100))$
 
 where:
-- $md$ is the maximum distance (2.5km)
+- $md$ is the maximum distance (1.5km)
 - $r$ is a random ratio
 - $s$ is the ship speed
 
 For example, a crew with no ship (speed = 1) and a random ratio of 0.3 gives the distance of:
 
-$2.5 - ((0.3 * 2.5) * (\sqrt{1} * 2.5 / 100)) = 2.48km$
+$1.5 - ((0.3 * 1.5) * (\sqrt{1 * 10} * 1.5 / 100)) = 1.48km$
 
 Other examples (rounded to 2 decimals):
 
-| Random ratio 	| Ship speed = 1 	| Ship speed = 50 	| Ship speed = 100 	|
-|--------------	|----------------	|-----------------	|------------------	|
-| 0.1          	| 2.49km         	| 2.46km          	| 2.44km            |
-| 0.2          	| 2.49km          	| 2.41km           	| 2.38km            |
-| 0.3          	| 2.48km        	| 2.37km           	| 2.31km            |
-| 0.4          	| 2.48km           	| 2.32km            | 2.25km            |
-| 0.5          	| 2.47km         	| 2.28km           	| 2.19km            |
-| 0.6          	| 2.46km         	| 2.23km           	| 2.13km            |
-| 0.7          	| 2.46km           	| 2.19m          	| 2.06km            |
-| 0.8          	| 2.45km           	| 2.15km            | 2.00km            |
-| 0.9          	| 2.44km           	| 2.10km           	| 1.94km            |
-| 1.0          	| 2.44km           	| 2.06km            | 1.88km            |
+| Random ratio | Ship speed = 1 | Ship speed = 50 | Ship speed = 100 |
+|--------------|----------------|-----------------|------------------|
+| 0.1          | 1.49 km        | 1.45 km         | 1.43 km          |
+| 0.2          | 1.49 km        | 1.40 km         | 1.36 km          |
+| 0.3          | 1.48 km        | 1.35 km         | 1.29 km          |
+| 0.4          | 1.47 km        | 1.30 km         | 1.22 km          |
+| 0.5          | 1.46 km        | 1.25 km         | 1.14 km          |
+| 0.6          | 1.46 km        | 1.20 km         | 1.07 km          |
+| 0.7          | 1.45 km        | 1.15 km         | 1.00 km          |
+| 0.8          | 1.44 km        | 1.10 km         | 0.93 km          |
+| 0.9          | 1.44 km        | 1.05 km         | 0.86 km          |
+| 1            | 1.43 km        | 1.00 km         | 0.79 km          |
+
 
 ### VS mode
 
