@@ -15,10 +15,4 @@ Player is only subject to network fees when minting a pirate, ship or item
 
 ## Mint tax
 
-Every time a player mints a pirate, a ship or an item, a tax of **3%** is taken from the mint price.
-
-This tax is used to:
-- Finance the game development and maintenance 
-- Reward the game creators, investors and contributors
-
-Example: if a pirate is minted for a price of 10, the tax is 0.3. The rest (9.7) is put in the game, mostly for reward distribution.
+No mint tax is planned so far. All collected coins will be sent to the treasury contract, for later dispatch.
