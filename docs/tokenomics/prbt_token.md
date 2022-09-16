@@ -10,7 +10,7 @@ New PRBT are minted on every player achievement, that is:
 
 | Achievement      | PRBT reward |
 |------------------|-------------|
-| Treasure claim   | 10          |
+| Treasure claim   | 5           |
 | Ship wreck claim | 15          |
 
 The same reward applies to all players in the game.

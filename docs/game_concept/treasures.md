@@ -193,8 +193,8 @@ More examples:
 | 1.0           | 1.25 PGLD     	| 6.25 PGLD     	| 12.50 PGLD     	|
 
 Like location, treasure value is then assigned by pair:
-- the first treasure (the furthest) get 80% of the calculated treasure value
-- the seconde one (the closest) get 20% of the calculated treasure value
+- the first treasure (the furthest) get 90% of the calculated treasure value
+- the seconde one (the closest) get 10% of the calculated treasure value
 
 ### VS mode
 
