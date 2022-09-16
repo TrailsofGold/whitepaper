@@ -17,10 +17,10 @@ The number of spawned treasures in a hunt depend on the crew size (number of pir
 
 | Crew size    	| Expected treasures |
 |--------------	|--------------------|
-| 1            	| 1            	     |
-| 2      	    | 2            	     |
-| 4    	        | 4          	     |
-| 20 	        | 20           	     |
+| 1            	| 2            	     |
+| 2      	    | 4            	     |
+| 4    	        | 8          	     |
+| 20 	        | 40           	     |
 
 The max crew size is capped to 20.
 
@@ -69,6 +69,11 @@ Other examples (rounded to 2 decimals):
 | 0.9          | 1.44 km        | 1.05 km         | 0.86 km          |
 | 1            | 1.43 km        | 1.00 km         | 0.79 km          |
 
+In order to keep the game entraining, half of the treasures spawned for a hunt are closer by 30% to the player initial location.
+
+As an example, in a hunt with a single pirate, 2 treasures are spawned:
+- The first one will be located according to the above location formula: $1.48km$
+- The second one will located at 30% of the the first one distance, that is $1.48 * 0.3 = 444m$ and with the same azimuth.
 
 ### VS mode
 
@@ -129,7 +134,9 @@ In VS mode a treasure has always a 4h expiration delay.
 
 ## Value
 
-In order to reward all the users the max treasure value is recalculated every day (00:00 CET). 
+In order to be able to reward all the players. A max treasure value is used for every treasure value computation.
+
+A treasure can never have a value greater than the max treasure value.
 
 The max treasure value computation formula is :
 
@@ -184,6 +191,10 @@ More examples:
 | 0.8          	| 1.00 PGLD     	| 5.00 PGLD     	| 10.00 PGLD     	|
 | 0.9          	| 1.13 PGLD     	| 5.63 PGLD     	| 11.25 PGLD     	|
 | 1.0           | 1.25 PGLD     	| 6.25 PGLD     	| 12.50 PGLD     	|
+
+Like location, treasure value is then assigned by pair:
+- the first treasure (the furthest) get 80% of the calculated treasure value
+- the seconde one (the closest) get 20% of the calculated treasure value
 
 ### VS mode
 
