@@ -73,7 +73,7 @@ In order to keep the game entraining, half of the treasures spawned for a hunt a
 
 As an example, in a hunt with a single pirate, 2 treasures are spawned:
 - The first one will be located according to the above location formula: $1.48km$
-- The second one will located at 30% of the the first one distance, that is $1.48 * 0.3 = 444m$ and with the same azimuth.
+- The second one will located at 30% of the the first one distance, that is $1.48 * 0.3 = 444m$
 
 ### VS mode
 
