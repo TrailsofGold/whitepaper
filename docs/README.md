@@ -1,6 +1,6 @@
-# Bitcoin Pirates
+# Seven Seas
 
-**Bitcoin Pirates** is a web3 treasure hunt Game-Fi adventure involving Move-to-Earn mechanics.
+**Seven Seas** is a web3 treasure hunt Game-Fi adventure involving Move-to-Earn mechanics.
 
 Players buy pirates NFTs to build their crew and go hunting for treasures of Pirate Gold tokens (PGLD) located all arround them.
 
@@ -10,7 +10,7 @@ The game is available as a smartphone app on iOS and Android.
 
 ## Mission
 
-**Bitcoin Pirates** is a game, and does not pretend to save the world, fight the climate change or serve any higher purpose.
+**Seven Seas** is a game, and does not pretend to save the world, fight the climate change or serve any higher purpose.
 
 The goals of the game are simple and clear:
 1. Have fun

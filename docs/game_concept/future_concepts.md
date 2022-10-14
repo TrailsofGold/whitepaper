@@ -1,4 +1,4 @@
-**Bitcoin Pirates** is designed to be an ever extending game world.
+**Seven Seas** is designed to be an ever extending game world.
 
 As such new concepts will be added in a near future. Among them are...
 
