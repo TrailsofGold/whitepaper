@@ -1,8 +1,10 @@
 ## Get a crew
 
-In order to play, players must mint or buy at least one pirate.
+In order to play, players must own at least one pirate.
 
 Each pirate has base skills that affects the crew capabilities.
+
+Players can get pirates by minting them.
 
 Minting is done "randomly" giving every player the same chance to get a super skilled pirate (or not...).
 
