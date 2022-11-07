@@ -1,8 +1,11 @@
+<p align="center">
+  <img width="128" src="./img/rum.png">
+</p>
+
 Pirate Rum Bottle Token (PRBT) is the in-game utility token.
 
 It has an unlimited supply and can be burn.
 
-It cannot be changed to PGLD.
 
 ## Minting
 

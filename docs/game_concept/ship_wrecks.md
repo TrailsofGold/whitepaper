@@ -78,7 +78,7 @@ For example, if ship capacity is 4, and the crew has only 3 pirates, wrecks may 
 
 However if the ship capacity is reached (4 pirates), wrecks will not contain any pirate.
 
-The number of pirates in a wreck is set randomly with a limit set to 3 or the ship reamining capacity.
+The number of pirates in a wreck is set randomly with a limit set to 2 or the ship reamining capacity.
 
 ### PGLD
 

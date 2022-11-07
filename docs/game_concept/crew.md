@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="128" src="./img/crew.png">
+</p>
+
 A crew starts with at least one pirate.
 
 However, in order to maximize rewards, players can increase their crew size (and then cumulate pirate skills). But to do that they need to buy ships.
@@ -9,7 +13,7 @@ A crew is composed of:
 
 The crew size (number of pirates on the crew) is limited to 20, which is tle maximum capacity for a ship in the game.
 
-A player can only have one crew.
+A player can only have one crew, but can change it as needed.
 
 ?> For more information on Pirates, read [Pirates](game_concept/pirates.md)
 

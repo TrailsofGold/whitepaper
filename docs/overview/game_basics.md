@@ -1,4 +1,8 @@
-## Get a crew
+## Get a crew 
+
+<p align="center">
+  <img width="64" src="./img/crew.png">
+</p>
 
 In order to play, players must own at least one pirate.
 
@@ -10,13 +14,24 @@ Minting is done "randomly" giving every player the same chance to get a super sk
 
 ## Start a treasure hunt
 
-In order to find a treasure, players have to physically move to the geographical location of the treasure as indicated on a map.
+<p align="center">
+  <img width="64" src="./img/rudder.png">
+  <img width="64" src="./img/shovel.png">
+  <img width="64" src="./img/chest.png">
+</p>
+
+To find a treasure, players have to physically move to the geographical location of the treasure as indicated on a map.
 
 A treasure has an expiration time: the player has to find it before it expires.
 
 When treasures expire, the player has to wait until he/she can start a new hunt to get new ones to find.
 
 ## Get rewarded
+
+<p align="center">
+  <img width="64" src="./img/gold.png">
+  <img width="64" src="./img/rum.png">
+</p>
 
 Players get rewarded with PGLD and PRBT (Pirate Rum Bottle Token) everytime they physically reach a treasure location.
 

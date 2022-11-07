@@ -38,7 +38,7 @@ Like other game objects, items have a rarity level.
 
 ## Max items per crew
 
-The number of available slots depends on the capacity skill of your ship. You unlock a new slot every 4 capacity skill points.
+The number of available slots depends on the capacity skill of the ship. A new slot is unlocked every 4 capacity skill points.
 
 As an example: 
 

@@ -14,7 +14,7 @@ skinparam usecaseBorderThickness 0.4
 skinparam defaultFontSize 12
 skinparam rectangleBorderThickness 1
 
-rectangle "Backend" {
+rectangle "Game server" {
   [Hunt]
   [Crew]
   [Geolocation]
@@ -27,6 +27,7 @@ rectangle "Blockchain" {
   [Ships]
   [Items]
   [Shop]
+  [Tavern]
 }
 rectangle "<b>player</b>" as Player
 
@@ -43,4 +44,5 @@ Backend --> Blockchain
 - Pirate (ERC1155): handles pirate NFTs and performs random minting
 - Ship (ERC1155): handles ship NFTs and performs random minting
 - Item (ERC1155): handles item NFTs and performs random minting
-- Shop: responsible on handling mint sales for every kind of NFT
+- Shop: responsible on handling mint sales for NFTs bought with PRBT and/or PGLD
+- Tavern: responsible on handling mint sales for pirate NFTs (bought with blockchain coin)

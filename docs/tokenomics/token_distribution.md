@@ -1,4 +1,4 @@
-PGLD is minted on game launch to a Smart Contract and unlocked following a pre-determined schedule on a 5 years period.
+PGLD is minted on game launch to a smart contract and unlocked following a pre-determined schedule on a 5 years period.
 
 Total PGLD supply is **21 000 000**.
 

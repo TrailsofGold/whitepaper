@@ -1,4 +1,9 @@
 
+
+<p align="center">
+  <img width="128" src="./img/rudder.png">
+</p>
+
 When the player has setup his/her crew, he/she is able to start a treasure hunt.
 
 ```blockdiag
@@ -92,3 +97,7 @@ Other examples:
 ## Crew trading during a hunt
 
 When a hunt is in progress, the player is free to trade pirates, ship and items NFTs of his/her crew. However, those cannot be involved into another player's hunt until this one is finsihed.
+
+If the player transfers (or burns) pirates, items or the ship used while hunting, he/she will not be able to dig treasures.
+
+When the player receives a new pirate, item or ship from another player (NFT transfer), he/she will not be able to add it to his/her crew during 4 hours.

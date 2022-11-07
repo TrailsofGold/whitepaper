@@ -1,6 +1,10 @@
+<p align="center">
+  <img width="128" src="./img/gold.png">
+</p>
+
 Pirate Gold (PGLD) is the value token.
 
-It can be used to mint ships or items. And can be changed into crypto currency as well.
+It can be used to mint ships. And can be changed into crypto currency as well.
 
 ## Supply
 
@@ -8,20 +12,25 @@ The PGLD has a limited supply of **21 000 000** (21 millions tokens, like bitcoi
 
 ## Minting
 
-All the PGLD supply is minted on launch day.
+All the PGLD supply is minted on launch day, but unlocked following a vesting schedule.
 
 ?> See [Token distribution](tokenomics/token_distribution) for more details.
 
 ## Usage
 
-PGLD is used for rewards.
+PGLD is used to reward players.
 
-Total maximum daily rewards amount is composed of :
-- PGLD daily minting :refer to the mint formula above.
-- PGLD collected by ship and item sales: it depends on how much users buy items and ship on the app.
-- Previous days undistributed PGLD supply.
-- PGLD sold by users.
+A share of the PGLD tokens are put in a reward pool contract following a vesting schedule (see [Token distribution](tokenomics/token_distribution)).
 
-> TODO: explain formula here
+PGLD go out of the reward pool when:
+- A treasure is found
+- A ship wreck is found
+
+PGLD go into the reward pool when:
+- New PGLD are unlocked from the vesting schedule
+- New ships are minted by players
+
+?> In a near futur, PGLD will be used to take more actions during the game. See [Future concepts](game_concept/future_concepts).
+
 
 

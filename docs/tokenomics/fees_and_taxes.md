@@ -3,7 +3,7 @@ In order to run, the game charge player with fees and taxes.
 
 ## Network fees
 
-In order to run, blockchains use a gas system to reward network maintainer.
+In order to run, blockchains use a gas system to reward network validators.
 
 Network fees are necessary to execute transactions (write operations) on the blockchain.
 

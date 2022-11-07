@@ -29,6 +29,6 @@ While playing he/she can get Gold (PGLD), Rum (PRBT) or NFTs (items and pirates 
 
 Gold and Rum can be spent into the Shop to buy NFTs (ships and items).
 
-Money collected by the Tavern is sent to a Treasury contract.
+Money collected by the Tavern is sent to a Treasury address.
 
 PGLD and PRBT collected by the Shop are sent back to the game RewardPool contract.

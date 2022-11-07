@@ -25,5 +25,5 @@
 * [Overview](tech_architecture/overview.md)
 * [Security](tech_architecture/security.md)
 * **Roadmap**
-* [Funding](roadmap/funding.md)
+* [Overview](roadmap/overview.md)
 

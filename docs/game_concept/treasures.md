@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="128" src="./img/chest.png">
+</p>
+
 Treasures are geolocated rewards for players.
 
 A treasure is defined by :
@@ -13,7 +17,7 @@ Everytime a player finds a treasure he/she gets a fixed amount of PRBT as well.
 
 In solo mode treasures are spawned all around the player's current location when the hunt starts.
 
-The number of spawned treasures in a hunt depend on the crew size (number of pirates in the crew) :
+The number of spawned treasures in a hunt depends on the crew size (number of pirates in the crew):
 
 | Crew size    	| Expected treasures |
 |--------------	|--------------------|
@@ -198,4 +202,4 @@ Like location, treasure value is then assigned by pair:
 
 ### VS mode
 
-In VS mode,t he treasure value is always the max treasure value.
+In VS mode, the treasure value is always 10% of the max treasure value.

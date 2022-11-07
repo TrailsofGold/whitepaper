@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="128" src="./img/gold.png">
+  <img width="128" src="./img/rum.png">
+</p>
+
 The game works on a dual token system:
 - The Pirate Gold Token (PGLD) is the value token of the game
 - The Pirate Rum Bottle Token (PRBT) is the in-game utility token used to materialize player engagement
