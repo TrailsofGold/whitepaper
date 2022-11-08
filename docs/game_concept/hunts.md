@@ -50,9 +50,11 @@ While moving towards treasure locations players may discover ship wrecks contain
 
 Players can see treasures on their map, but have to "pole" to see ship wrecks.
 
-### VS hunt
+### VS hunt (coming soon)
 
 In VS hunt mode, players have to find the same treasures, and the first reaching the location wins all the PGLD (winner takes all), as well as PRBT. 
+
+The VS hunt will be available at a fixed times.
 
 The VS hunt treasure value is greater than the solo hunt treasure.
 
