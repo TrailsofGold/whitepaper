@@ -28,7 +28,8 @@ PGLD go out of the reward pool when:
 
 PGLD go into the reward pool when:
 - New PGLD are unlocked from the vesting schedule
-- New ships are minted by players
+
+PGLD collected for ships and items sales is sent to the treasury.
 
 ?> In a near futur, PGLD will be used to take more actions during the game. See [Future concepts](game_concept/future_concepts).
 
