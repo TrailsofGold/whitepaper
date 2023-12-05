@@ -10,9 +10,8 @@ When the player has setup his/her crew, he/she is able to start a treasure hunt.
 blockdiag {
   default_shape = roundedbox
   
-  "Select mode" -> "Hunt start";
   "Hunt start" -> "Hunt end";
-  "Hunt end" -> "Crew rest" -> "Select mode";
+  "Hunt end" -> "Crew rest" -> "Hunt start";
 
   "Select mode" [color = "#FEF58F"];
   "Hunt start" [color = "#BCD3FB"];
@@ -23,44 +22,29 @@ blockdiag {
 }
 ```
 
-| Stage      	| Description                                                                                           	|
-|------------	|-------------------------------------------------------------------------------------------------------	|
-| Select mode      	| Before starting ahunt, the player chooses solo mode or VS mode.                        	|
-| Hunt start        	| When the hunt starts, in solo mode: treasures and ship wrecks are spawned on based on the current player crew skills. In VS mode, treasures can spawn at anytime (before, or during the hunt). 	|
-| Hunt end 	| In solo mode, hunt ends when all treasures are expired. In VS mode, hunt ends when the player finds a treasure or after 4 hours.      	|
-| Crew rest       	| When a hunt ends, the crew needs rest (time) before starting a new hunt. The duration of the rest varies according to the crew skills.                                      	|
+| Stage      	| Description                                                                                           	                              |
+|-------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| Hunt start 	| When the hunt starts, treasures and ship wrecks are spawned on based on the current player crew skills.                               |
+| Hunt end  	| Hunt ends when all treasures are expired.                                                             	                              |
+| Crew rest  	| When a hunt ends, the crew needs rest (time) before starting a new hunt. The duration of the rest varies according to the crew skills.|
 
-## Modes
+## Hunting
 
-### Solo hunt
+Players have to find treasures that only them can see.
 
-In a solo hunt, players have to find treasures that only them can see.
-
-When a player wants to play he/she needs to explicitly start a solo hunt.
+When a player wants to play he/she needs to explicitly start a hunt.
 
 A solo hunt can be started when :
 - his/her previous solo hunt already ended
 - the crew had enough rest since the previous hunt. This rest time varies according to the crew skills
 
-A solo hunt ends when all treasures expire.
+A hunt ends when all treasures expire, or are found.
 
-When starting a solo hunt, the game system spawns several treasures around the player location, and everytime he/she reaches this physical location he/she is rewarded with PGLD and PRBT.
+When starting a new hunt, the game system spawns several treasures around the player location, and everytime he/she reaches this physical location he/she is rewarded with PGLD and PRBT.
 
 While moving towards treasure locations players may discover ship wrecks containing pirates and / or PGLD tokens and PRBT.
 
 Players can see treasures on their map, but have to "pole" to see ship wrecks.
-
-### VS hunt (coming soon)
-
-In VS hunt mode, players have to find the same treasures, and the first reaching the location wins all the PGLD (winner takes all), as well as PRBT. 
-
-The VS hunt will be available at a fixed times.
-
-The VS hunt treasure value is greater than the solo hunt treasure.
-
-The hunt ends as soon as the player finds a treasure or after 4 hours.
-
-A player cannot start a solo hunt and a VS hunt at the same time.
 
 ## Rest time
 
