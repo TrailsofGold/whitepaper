@@ -26,4 +26,7 @@
 * [Security](tech_architecture/security.md)
 * **Roadmap**
 * [Overview](roadmap/overview.md)
+* **Governance**
+    * Proposal templates
+      * [Contributor Reward Request](governance/proposal_templates/contributor_reward_request_template.md)
 
