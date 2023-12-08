@@ -28,5 +28,5 @@
 * [Overview](roadmap/overview.md)
 * **Governance**
     * Proposal templates
-      * [Contributor Reward Request](governance/proposal_templates/contributor_reward_request_template.md)
+      * [Contributor Reward](governance/proposal_templates/contributor_reward_template.md)
 
