@@ -1,5 +1,4 @@
-In order to run, the game charge player with fees and taxes.
-
+At the moment, the game does not charge any fee, and reward distribution is directly charged to the game.
 
 ## Network fees
 
@@ -9,10 +8,7 @@ Network fees are necessary to execute transactions (write operations) on the blo
 
 The gas price varies over time, as it mostly depends on network usage.
 
-Player is only subject to network fees when minting a pirate, ship or item
+Player is only subject to network fees when minting a ship or item.
 
-?> Reward distribution is directly charged to the game
+?> When minting a new pirate from the app, the payement system checks the player wallet balance, and if necessary, sends a few MATIC as subsidy for network fees.
 
-## Mint tax
-
-No mint tax is planned so far. All collected coins will be sent to the treasury contract, for later dispatch.

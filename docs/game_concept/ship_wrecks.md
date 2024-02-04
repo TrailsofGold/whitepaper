@@ -9,8 +9,6 @@ A ship wreck is defined by :
 
 ?> for more information about the max treasure value, see [Treasures](game_concepts/treasures.md)
 
-Ship wreck are only available in solo mode.
-
 Everytime a player finds a ship wreck he/she gets a fixed amount of PRBT as well.
 
 ## Wreck polling
@@ -36,7 +34,7 @@ For example a crew with a navigation skill of 300 and a mercy skill of 200 has a
 
 The number of spawned ship wrecks in a hunt depends on 2 factors:
 - the crew size (number of pirates in the crew)
-- the rate of expired treasures in solo mode by every player on the previous day
+- the rate of expired treasures by every player on the previous day
 
 The formula is then:
 
@@ -56,13 +54,13 @@ That is 2 ship wrecks will be spawned for the hunt.
 
 ## Location
 
-Ship wreck location works the same as treasures in solo mode.
+Ship wreck location works the same as treasures.
 
 ?> See [Treasures](game_concept/treasures.md) for more details.
 
 ## Expiration delay
 
-Ship wreck expiration delay works the same as treasures in solo mode.
+Ship wreck expiration delay works the same as treasures.
 
 ?> See [Treasures](game_concept/treasures.md) for more details.
 

@@ -9,8 +9,14 @@ Pirate Gold tokens can then be used to buy ships, improve threir crew, or can be
 The game is available as a smartphone app on iOS and Android.
 
 <p align="center">
-  <img width="256" src="./img/inventory_screen.png"><span style="width: 120px">&nbsp;</span><img width="256" src="./img/hunt_screen.png"><span style="width: 120px">&nbsp;</span><img width="256" src="./img/ship_screen.png">
+  <img width="256" src="./img/hunt_screen.png"><span style="width: 120px">&nbsp;</span>
 </p>
+
+## Intended audience
+
+Eventhough, **Seven Seas** is a Web3 game, the app was designed to make it almost invisible to the players with features such as social login support (Google, Apple, and Discord are supported), in-app purchase, and network fees subsidies (so that players don't need to get to an exchange to buy cryptocurrency).
+
+?> Note: advanced Web3 players can also login by providing their own seed phrase.
 
 ## Mission
 
@@ -26,6 +32,7 @@ Note that earning money comes third. For a simple reason: the game needs to be s
 - An affordable entry cost and less financial pressure on newcomers
 - Fair fees
 
+Finally, the game also aims at becoming a game onwed by its contributors and its players, through its PGLD token.
 
 <p align="center">
   <img width="64" height="64" src="./img/jolly_roger.png">

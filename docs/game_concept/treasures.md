@@ -132,7 +132,7 @@ $(10000 - (10000 * 0.2)) / (abs(2 * 300 - 280) + 1) = 24.92$ PGLD
 
 ?> For more information about PGLD rewards amount, see [PGLD token](tokenomics/pgld_token.md)
 
-Once the max treasure value is known it is used to calculate treasure value for each treasure of the game in solo mode.
+Once the max treasure value is known it is used to calculate treasure value for each treasure of the game.
 
 The crew strategy and navigation skills are used to 
 

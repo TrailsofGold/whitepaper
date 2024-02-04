@@ -1,6 +1,18 @@
-PGLD is minted on game launch to a smart contract and unlocked following a pre-determined schedule on a 5 years period.
+PGLD minting is managed by the DAO and has a maximumn supply of **21 000 000**.
 
-Total PGLD supply is **21 000 000**.
+On game start, 50% of the maximum supply will be sent to the game reward pool (Play & Earn) with a progressive unlock scheduled on 500 days.
+
+The other 50% will be kept in control of the DAO and will be used to:
+- reward contributors
+- provide token liquidity
+- fund ecosystem
+
+To this day, there is no private or public sale planned.
+
+Pre game launch token distribution is reserved to contributors.
+
+?> See [Contributing](governance/contributing.md) for more details on who can contribute, and how contrubution rewards are calculed.
+
 
 ## Allocation
 
@@ -10,12 +22,8 @@ Total PGLD supply is **21 000 000**.
   "description": "PGLD token distribution.",
   "data": {
     "values": [
-      {"Usage": "Play & Earn", "Pct": 0.35},
-      {"Usage": "Ecosystem fund", "Pct": 0.25},
-      {"Usage": "Team", "Pct": 0.15},
-      {"Usage": "Private sale", "Pct": 0.10},
-      {"Usage": "Public sale", "Pct": 0.05},
-      {"Usage": "Liquidity provision", "Pct": 0.10}
+      {"Usage": "Play & Earn", "Pct": 0.5},
+      {"Usage": "DAO Treasury", "Pct": 0.5}
     ]
   },
   "encoding": {
@@ -39,17 +47,15 @@ Total PGLD supply is **21 000 000**.
 }
 ```
 
-| Allocation          	| Share 	| Amount    	| Unlock rule    	|
-|---------------------	|-------	|-----------	|-----	|
-| Play & Earn         	| 35%   	| 7 350 000 	| 7% unlocked on game start.<br/>Then degressive unlock after 30 days. 	|
-| Ecosystem fund      	| 25%   	| 5 250 000 	| 30% unlocked on game start.<br/>Then linear unlock after 30 days. 	|
-| Team                	| 15%   	| 3 150 000 	| 20% unlocked on game start.<br/>Then linear unlock after 300 days. 	|
-| Private sale        	| 10%   	| 2 100 000 	| Linear unlock every 180 days. 	|
-| Public sale         	| 5%    	| 1 050 000 	| 30% unlocked on game start.<br/>Then linear unlock after 30 days on 180 days. 	|
-| Liquidity provision 	| 10%   	| 2 100 000 	| 10% unlocked on game start.<br/>Then linear unlock after 30 days. 	|
+| Allocation          	| Share 	| Amount    	| Unlock rule    	                                                                |
+|---------------------	|-------	|-----------	|-------------------------------------------------------------------------------	|
+| Play & Earn         	| 50%   	| 10 500 000 	| 5% unlocked on game start.<br/>Then game activity related onlock on 500 days. 	|
+| Treasury DAO        	| 50%   	| 10 500 000 	| No time-lock, controlled by DAO members, through proposals.                     |
 
 
 ## Play & Earn allocation function
+
+!> TODO: outdated - to update
 
 PGLD dedicated to play & earn are released according to a look alike bitcoin decay formula, in order to preserve the token value over time.
 
@@ -69,6 +75,8 @@ Example :
 Released token on day 60 is $1 049 932 - 546 840 = 503 092$ PGLD
 
 ## Unlock schedule
+
+!> TODO: outdated - to update
 
 Unlock updates occur every 30 days.
 

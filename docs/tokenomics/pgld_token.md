@@ -12,26 +12,23 @@ The PGLD has a limited supply of **21 000 000** (21 millions tokens, like bitcoi
 
 ## Minting
 
-All the PGLD supply is minted on launch day, but unlocked following a vesting schedule.
+Minting is controlled by the game DAO. However 50% of the total supply will be allocated to the game on launch day.
 
 ?> See [Token distribution](tokenomics/token_distribution) for more details.
 
 ## Usage
 
-PGLD is used to reward players.
+PGLD is used:
+- to reward players
+- to buy ships (along with PRBT)
+- as DAO governance token
 
 A share of the PGLD tokens are put in a reward pool contract following a vesting schedule (see [Token distribution](tokenomics/token_distribution)).
 
-PGLD go out of the reward pool when:
-- A treasure is found
-- A ship wreck is found
+PGLD goes out of the reward pool when a treasure is found.
 
-PGLD go into the reward pool when:
-- New PGLD are unlocked from the vesting schedule
+PGLD collected for ships and items sales is sent to the DAO treasury.
 
-PGLD collected for ships and items sales is sent to the treasury.
-
-?> In a near futur, PGLD will be used to take more actions during the game. See [Future concepts](game_concept/future_concepts).
 
 
 

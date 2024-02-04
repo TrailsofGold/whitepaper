@@ -4,7 +4,8 @@
   <img width="128" src="./img/rudder.png">
 </p>
 
-When the player has setup his/her crew, he/she is able to start a treasure hunt.
+Any player can start a hunt. However if a player starts a hunt without a pirate, he/she will not gt any reward when finding treasures.
+
 
 ```blockdiag
 blockdiag {
@@ -13,7 +14,6 @@ blockdiag {
   "Hunt start" -> "Hunt end";
   "Hunt end" -> "Crew rest" -> "Hunt start";
 
-  "Select mode" [color = "#FEF58F"];
   "Hunt start" [color = "#BCD3FB"];
   "Hunt end" [color = "#E0ADFA"];
   "Crew rest" [color = "greenyellow"];
@@ -34,17 +34,19 @@ Players have to find treasures that only them can see.
 
 When a player wants to play he/she needs to explicitly start a hunt.
 
-A solo hunt can be started when :
-- his/her previous solo hunt already ended
+A hunt can be started when :
+- his/her previous hunt already ended
 - the crew had enough rest since the previous hunt. This rest time varies according to the crew skills
 
 A hunt ends when all treasures expire, or are found.
 
 When starting a new hunt, the game system spawns several treasures around the player location, and everytime he/she reaches this physical location he/she is rewarded with PGLD and PRBT.
 
-While moving towards treasure locations players may discover ship wrecks containing pirates and / or PGLD tokens and PRBT.
+## Empty crew mode
 
-Players can see treasures on their map, but have to "pole" to see ship wrecks.
+If the player starts a hunt without a crew (at least one pirate), 4 treasures are spawned, but all of them will be emtpy (no PGLD or PRBT reward).
+
+This mode was designed for trial / test mode.
 
 ## Rest time
 

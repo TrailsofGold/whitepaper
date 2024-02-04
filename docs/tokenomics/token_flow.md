@@ -3,7 +3,7 @@ blockdiag {
   default_shape = roundedbox
   
 
-  "Tavern" -> "NFT";
+  "In-App Purchase" -> "NFT";
   "NFT" -> "Play";
   "Play" -> "Gold", "Rum", "NFT";
   "Gold" -> "Shop";
@@ -11,7 +11,7 @@ blockdiag {
   "Shop" -> "NFT";
   
 
-  "Tavern" [color = "#BCD3FB"];
+  "In-App Purchase" [color = "#BCD3FB"];
   "Shop" [color = "#E0ADFA"];
   "Play" [color = "greenyellow"];
 
@@ -23,12 +23,12 @@ blockdiag {
 }
 ```
 
-A player buys one or more pirates (NFTs) to the Tavern in order to start playing.
+A player buys one or more pirates (NFTs) from the app (in-app purchase) in order to start playing.
 
 While playing he/she can get Gold (PGLD), Rum (PRBT) or NFTs (items and pirates when finding wrecks).
 
 Gold and Rum can be spent into the Shop to buy NFTs (ships and items).
 
-Money collected by the Tavern is sent to a Treasury address.
+Money collected by the in-app purchases is sent to DAO Treasury.
 
-PGLD and PRBT collected by the Shop are sent back to the game RewardPool contract.
+PGLD collected by the Shop is also sent to DAO Treasury, PRBT is burnt.

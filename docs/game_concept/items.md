@@ -36,18 +36,32 @@ Like other game objects, items have a rarity level.
 | Parrot              | Mercy + 5      | Mercy + 10      | Mercy + 15      | Mercy + 20      |
 | Magic Apple         | Combat + 5     | Combat + 10     | Combat + 15     | Combat + 20     |
 
+
+| Level     | Mint occurence |
+|-----------|----------------|
+| Common    | 100            |
+| Rare      | 50             |
+| Epic      | 10             |
+| Legendary | 1              |
+
+As each item type exists for all rarirty level, the player has:
+- 1 chance out of 161 to get a lengendary item
+- 10 chances out of 161 to get an epic item
+- 50 chances out of 161 to get a rare item
+- 100 chances out of 161 to get a common item
+
 ## Max items per crew
 
 The number of available slots depends on the capacity skill of the ship. A new slot is unlocked every 4 capacity skill points.
 
 As an example: 
 
-| Ship Capacity    	| Slot items 	     |
-|-------------------|------------------|
-| 0 to 3            | 0            	   |
-| 4 to 7      	    | 1                |
-| 8 to 11    	      | 2    	           |
-| 12 to 15    	    | 3    	           |
-| 16 to 20    	    | 4    	           |
+| Ship Capacity | Slot items |
+|---------------|------------|
+| 0 to 3        | 0          |
+| 4 to 7        | 1          |
+| 8 to 11       | 2          |
+| 12 to 15      | 3          |
+| 16 to 20      | 4          |
 
 
