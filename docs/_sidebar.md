@@ -14,11 +14,11 @@
 * [Items](game_concept/items.md)
 <!--* [Future concepts](game_concept/future_concepts.md)-->
 * **Tokenomics**
-* [Dual token system](tokenomics/dual_token.md)
-* [Token flow](tokenomics/token_flow.md)
-* [PGLD token](tokenomics/pgld_token.md)
-* [PRBT token](tokenomics/prbt_token.md)
-* [Token distribution](tokenomics/token_distribution.md)
+* [Dual Token System](tokenomics/dual_token.md)
+* [Token Flow](tokenomics/token_flow.md)
+* [PGLD Token](tokenomics/pgld_token.md)
+* [PRBT Token](tokenomics/prbt_token.md)
+* [Token Distribution](tokenomics/token_distribution.md)
 * [Prices](tokenomics/prices.md)
 * [Fees & taxes](tokenomics/fees_and_taxes.md)
 * **Tech architecture**

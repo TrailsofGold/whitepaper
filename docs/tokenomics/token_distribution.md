@@ -2,10 +2,9 @@ PGLD minting is managed by the DAO and has a maximumn supply of **21 000 000**.
 
 On game start, 50% of the maximum supply is sent to the game reward pool (Play & Earn) with a progressive unlock scheduled on 500 days.
 
-The other is kept in control of the DAO and will be used to:
-- reward contributors
-- provide token liquidity
-- fund ecosystem
+The other is kept in control of the DAO.
+
+?> See [DAO](governance/dao.md) to learn more about the DAO.
 
 To this day, there is no private or public sale planned.
 

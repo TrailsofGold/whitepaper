@@ -12,10 +12,21 @@
     <style>
       @font-face {
         font-family: 'VeniceClassic';
-        src: url('veniceclassic-webfont.woff2') format('woff2'),
-            url('veniceclassic-webfont.woff') format('woff');
+        src: url("veniceclassic-webfont.woff2") format('woff2'), url("veniceclassic-webfont.woff") format('woff');
         font-weight: normal;
         font-style: normal;
+      }
+
+      @font-face {
+        font-family: 'Raleway';
+        src: url("raleway_regular.ttf") format('truetype');
+        font-weight: light;
+        font-style: normal;
+      }
+
+      body {
+        font-family: Raleway;
+        font-size: 18px;
       }
 
       :root {
@@ -29,7 +40,7 @@
         --sidebar-background: #041F1E;
         --sidebar-nav-strong-color: #ffffff;
         --sidebar-nav-link-color: #ffffff88;
-        
+
       }
 
       #seven-seas {
@@ -76,13 +87,11 @@
       }
     </script>
 
-
     <script src="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css" />
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css"/>
     <script src="https://cdn.jsdelivr.net/npm/marked@3"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
-    
-    
+
     <!-- Docsify v4 -->
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
     <!-- Plugins -->

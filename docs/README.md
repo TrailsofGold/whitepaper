@@ -6,7 +6,7 @@ Players buy pirates NFTs to build their crew and go hunting for treasures of Pir
 
 Pirate Gold tokens can then be used to buy ships, improve threir crew, or can be cashed out at anytime for profit.
 
-The game is available as a smartphone app on iOS and Android.
+The game is available as a smartphone app on iOS and Android and uses the [Polygon POS blockchain](https://polygon.technology/polygon-pos).
 
 <p align="center">
   <img width="256" src="./img/hunt_screen.png"><span style="width: 120px">&nbsp;</span>
