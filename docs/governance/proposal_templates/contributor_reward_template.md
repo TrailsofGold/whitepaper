@@ -35,7 +35,7 @@ Date: [DATE]
 ## Reward Calculation
 
 Hourly rate: 600 PGLD, as agreed by the community.
-Expense rate: 100 PGLD fir $1, as agreed by the community.
+Expense rate: 100 PGLD for $1, as agreed by the community.
 
 
 **Total Reward: [TOTAL HOURS x 600 PGLD + TOTAL EXPENSES x 100 PGLD = X PGLD]**

@@ -37,14 +37,14 @@ A liquidity pool of PGLD/USDC will be created on Uniswap to list the PGLD token.
 ### After game start
 
 While game is running, the DAO will be responsible to:
-- keep the game attractive
-- keep the game sustainable
-- promote the game
+- Keep the game attractive
+- Keep the game sustainable
+- Promote the game
 
 To do so it will be in charge of (non exhaustive list):
-- rewarding contributors
-- providing token liquidity
-- funding ecosystem
+- Rewarding contributors
+- Providing token liquidity
+- Funding ecosystem
 
 
 ## Decentralization
@@ -52,5 +52,5 @@ To do so it will be in charge of (non exhaustive list):
 At the start DAO will be more or less centralized, as initial contributors come from [inside|app](https://www.insideapp.fr), the company that initially designed and built the game.
 
 However the goal of the DAO is to progressively:
-- enrich the contributors community (with people coming from outside inside|app)
-- increase the DAO control over the game. that is: not only decide day to day treasury management, but also geting involved into game design and incoming features through proposals.
+- Enrich the contributors community (with people coming from outside inside|app)
+- Increase the DAO control over the game. that is: not only decide day to day treasury management, but also geting involved into game design and incoming features through proposals.

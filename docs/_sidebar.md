@@ -29,6 +29,6 @@
 * **Governance**
 * [DAO](governance/dao.md)
 * [Contributing](governance/contributing.md)
-    * Proposal templates
-      * [Contributor Reward](governance/proposal_templates/contributor_reward_template.md)
+* Proposal templates
+  * [Contributor Reward](governance/proposal_templates/contributor_reward_template.md)
 

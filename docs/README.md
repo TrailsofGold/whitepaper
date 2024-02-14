@@ -34,7 +34,15 @@ Note that earning money comes third. For a simple reason: the game needs to be s
 
 Finally, the game also aims at becoming a game onwed by its contributors and its players, through its PGLD token.
 
+## Links
+
+- Website: https://7seas.quest/
+- X: https://twitter.com/7seasquest
+- Discord: https://discord.gg/2Hz62BVA6J
+- Whitepaper: https://whitepaper.7seas.quest/
+- Pirates Collection: https://opensea.io/fr/collection/seven-seas-pirates
+- Mystery Chests Collection: https://opensea.io/fr/collection/seven-seas-mystery-chests
+
 <p align="center">
   <img width="64" height="64" src="./img/jolly_roger.png">
 </p>
-
