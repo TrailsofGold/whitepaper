@@ -1,9 +1,14 @@
+## Device fingerprinting
+
+Players can only use a single device (smartphone) at the same time.
+The active device can be updated, but only when the player is not hunting.
+
+The active device is used to create proofs requested by the API to ensure the authenticity of provided information and their source.
+
+
 ## Geolocation anti-spoofing system
 
-In order to prevent geolocation cheating, the anti-spoofing system checks:
-- The move speed of the player between his/her starting point and treasures / wrecks, and in between teasures and wrecks.
-- When checking for an actual location, the game system also relies on the smartphone health data, to be sure a move was detected.
-- The use of a mobile cell network connection is mandatory to claim a treasure.
+In order to prevent geolocation cheating, the anti-spoofing system performs several checks, such as the move speed, the cell network usage, coordinate authentication, and more...
 
 ## Private key storage in app
 

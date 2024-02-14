@@ -25,9 +25,9 @@ blockdiag {
 
 A player buys one or more pirates (NFTs) from the app (in-app purchase) in order to start playing.
 
-While playing he/she can get Gold (PGLD), Rum (PRBT) or NFTs (items and pirates when finding wrecks).
+While playing he/she can get gold (PGLD) and rum (PRBT).
 
-Gold and Rum can be spent into the Shop to buy NFTs (ships and items).
+Gold and rum can be spent into the Shop to buy NFTs (ships and items).
 
 Money collected by the in-app purchases is sent to DAO Treasury.
 

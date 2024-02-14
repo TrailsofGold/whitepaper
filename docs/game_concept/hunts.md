@@ -24,7 +24,7 @@ blockdiag {
 
 | Stage      	| Description                                                                                           	                              |
 |-------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| Hunt start 	| When the hunt starts, treasures and ship wrecks are spawned on based on the current player crew skills.                               |
+| Hunt start 	| When the hunt starts, treasures are spawned on based on the current player crew skills.                               |
 | Hunt end  	| Hunt ends when all treasures are expired.                                                             	                              |
 | Crew rest  	| When a hunt ends, the crew needs rest (time) before starting a new hunt. The duration of the rest varies according to the crew skills.|
 

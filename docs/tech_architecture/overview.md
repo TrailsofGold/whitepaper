@@ -1,6 +1,6 @@
 The game works with an hybrid on-chain / off-chain architecture.
 
-Player assets (pirates, ships, items, PGLD, RBT) are stored on-chain in order to make sure the player stays in control all the time.
+Player assets (pirates, ships, items, PGLD, PRBT) are stored on-chain in order to make sure the player stays in control all the time.
 
 Game logic, however is run off-chain like hunts and crew management, geolocation checking, rewards calculation...
 
@@ -14,11 +14,14 @@ skinparam usecaseBorderThickness 0.4
 skinparam defaultFontSize 12
 skinparam rectangleBorderThickness 1
 
-rectangle "Game server" {
+rectangle "Game Server" {
   [Hunt]
   [Crew]
   [Geolocation]
   [Rewards calculation]
+}
+rectangle "Store Purchase Server" {
+  [In-App Payment]
 }
 rectangle "Blockchain" {
   [PGLD]
@@ -27,13 +30,15 @@ rectangle "Blockchain" {
   [Ships]
   [Items]
   [Shop]
-  [Tavern]
+  [RewardPool]
 }
-rectangle "<b>player</b>" as Player
+rectangle "<b>Player</b>" as Player
 
 Player --> Blockchain
-Player --> Backend
-Backend --> Blockchain
+Player --> "Game Server"
+Player --> "Store Purchase Server"
+"Game Server" --> Blockchain
+"Store Purchase Server" --> Blockchain
 
 ```
 
@@ -44,5 +49,6 @@ Backend --> Blockchain
 - Pirate (ERC1155): handles pirate NFTs and performs random minting
 - Ship (ERC1155): handles ship NFTs and performs random minting
 - Item (ERC1155): handles item NFTs and performs random minting
-- Shop: responsible on handling mint sales for NFTs bought with PRBT and/or PGLD
-- Tavern: responsible on handling mint sales for pirate NFTs (bought with blockchain coin)
+- Shop: responsible of handling mint sales for NFTs bought with PRBT and/or PGLD
+- In-App Payment: responsible of bridging in-app payment with pirate purchase (minting)
+- RewardPool: handles game (play & earn) rewards unlocking and distribution
