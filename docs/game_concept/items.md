@@ -45,7 +45,7 @@ Like other game objects, items have a rarity level.
 | Legendary | 1              |
 
 As each item type exists for all rarirty level, the player has:
-- 1 chance out of 161 to get a lengendary item
+- 1 chance out of 161 to get a legendary item
 - 10 chances out of 161 to get an epic item
 - 50 chances out of 161 to get a rare item
 - 100 chances out of 161 to get a common item

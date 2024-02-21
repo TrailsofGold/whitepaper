@@ -27,7 +27,7 @@ For example, if a season has 4 common pirates, 3 rare pirates, 2 epic pirates an
 $4 * 60 + 3 * 35 + 2 * 30 + 25 = 430$
 
 Meaning that a player has :
-- 25 chances out of 430 to get a lengendary pirate
+- 25 chances out of 430 to get a legendary pirate
 - 60 chances out of 430 to get an epic pirate
 - 105 chances out of 430 to get a rare pirate
 - 240 chances out of 430 to get a common pirate

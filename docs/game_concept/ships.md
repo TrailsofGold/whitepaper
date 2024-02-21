@@ -61,7 +61,7 @@ For example if the season has 4 common ships, 3 rare ships, 2 epic ships and 1 l
 $4 * 60 + 3 * 35 + 2 * 30 + 25 = 430$
 
 Meaning that a player has :
-- 25 chances out of 430 to get a lengendary ship
+- 25 chances out of 430 to get a legendary ship
 - 60 chances out of 430 to get an epic ship
 - 105 chances out of 430 to get a rare ship
 - 240 chances out of 430 to get a common ship
