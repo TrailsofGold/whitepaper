@@ -125,6 +125,10 @@ where:
 - $y$ is the number of treasures generated the previous day
 - $z$ is the number of treasures generated day before yesterday
 
+If $y$ and $z$ are equal to zero (game start or no activity at all), then the formula becomes:
+
+> $(x - X) / 100$
+
 Example :
 If yesterday the game generated 300 treasures, the day before yesterday the game generated 280 treasures and there is an amount of 10000 PGLD available in rewards :
 
@@ -134,7 +138,7 @@ $(10000 - (10000 * 0.2)) / (abs(2 * 300 - 280) + 1) = 24.92$ PGLD
 
 Once the max treasure value is known it is used to calculate treasure value for each treasure of the game.
 
-The crew strategy and navigation skills are used to 
+The crew strategy and navigation skills are used for that purpose.
 
 The treasure value computation formula is:
 

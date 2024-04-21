@@ -41,6 +41,8 @@ Finally, the game also aims at becoming a game onwed by its contributors and its
 - Discord: https://discord.gg/2Hz62BVA6J
 - Whitepaper: https://whitepaper.7seas.quest/
 - Pirates Collection: https://opensea.io/fr/collection/seven-seas-pirates
+- Ships Collection: https://opensea.io/collection/seven-seas-ships
+- Items Collection: https://opensea.io/collection/seven-seas-items
 - Mystery Chests Collection: https://opensea.io/fr/collection/seven-seas-mystery-chests
 
 <p align="center">
