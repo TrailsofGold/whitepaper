@@ -30,7 +30,7 @@ During the build / pre-launch phase, the DAO will mint PGLD to reward contributo
 
 At game start 50% of the total supply will be minted to the game reward pool. The remaining amount to mint will be kept under DAO control.
 
-A liquidity pool of PGLD/USDC will be created on Uniswap to list the PGLD token.
+A liquidity pool of PGLD/MATIC will be created on Uniswap to list the PGLD token.
 
 ?> Read [PGLD Token](tokenomics/pgld_token.md) to learn more about PGLD and PGLD listing.
 

@@ -108,6 +108,16 @@ More examples:
 | 0.9          	| 2h            	| 8h            	| 15h30min       	|
 | 1.0          	| 2h10min       	| 8h50min       	| 17h10min       	|
 
+## Skipping
+
+During a hunt a player can skip a treasure (because it is not reachable or he/she does not want to get it).
+
+The ability to skip a treasure relies on the crew mercy skill: each mercy skill point give the player a skip point.
+
+Skip points required to skip a given treasure depend on the distance between the player and the treasure he/she wants to skip: one skip point gives one meter skip distance.
+
+For example: if the player wants to skip a treasure located 89 meters away from his/her location, the skip point amount required is 89.
+
 
 ## Value
 
