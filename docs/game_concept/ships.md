@@ -74,3 +74,20 @@ Meaning that a player has :
 - 50 chances ( 25 * 2) out of 9 460 to get a legendary Frigate
 - 90 chances (30 * 3) out of 9 460 to get an epic Brigantine
 - 600 chances (10 * 60) out of 9 460 to get a common Sloop
+
+## Mainteance
+
+After a hunt a ship needs maintenance. And during mainteance time, it cannot be used in a new hunt.
+
+Ship mainteance time is calculated according to its capacity skill: 3 hours per capacity.
+
+Examples:
+
+| Capacity  | Maintenance duration (hours) |
+|-----------|------------------------------|
+| 4         | 12                           |
+| 8         | 24                           |
+| 12        | 36                           |
+| 20        | 60                           |
+
+?> Note: if the player owns multiple ships with the same id, maintenance time is divided by the number of copies. Example: if player owns 2 copies of ship #5 (capacity 5): maintenance time will be $5 * 3 / 2 = 7h30$.

@@ -81,6 +81,14 @@ Other examples:
 | 0.9          	| 3h15min 	| 51min    	| 33min    	|
 | 1            	| 3h35min 	| 55min    	| 35min    	|
 
+## Ship maintenance
+
+After a hunt, the ship used needs maintenance. When a ship is under maintenance, it cannot be used in a new hunt until its mainteance time is elapsed.
+
+Ship mainteance time depends on its capacity.
+
+?> For more information on ship mainteance, read [Ships](game_concept/ships.md)
+
 
 ## Crew trading during a hunt
 
