@@ -42,11 +42,18 @@ A hunt ends when all treasures expire, or are found.
 
 When starting a new hunt, the game system spawns several treasures around the player location, and everytime he/she reaches this physical location he/she is rewarded with PGLD and PRBT.
 
-## Empty crew mode
+## Thief mode (free2play)
 
-If the player starts a hunt without a crew (at least one pirate), 4 treasures are spawned, but all of them will be emtpy (no PGLD or PRBT reward).
+Thief mode is the game free2play mode.
 
-This mode was designed for trial / test mode.
+If the player starts a hunt without a crew (at least one pirate), 4 treasures are spawned, and one of them may contain 25 PGLD.
+
+The chances to get 25 PGLD in a treasure chest is based on the ratio of treasures lost (not found / expired) by players within the last 24 hours.
+
+For example: if during the last 24 hours 196 treasures were spawned, but only 127 were found, the chances to get 25 PGLD in a chest is:
+
+> $ 1 - (127 / 196) = .352$
+
 
 ## Rest time
 
