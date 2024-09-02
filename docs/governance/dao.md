@@ -54,3 +54,17 @@ At the start DAO will be more or less centralized, as initial contributors come 
 However the goal of the DAO is to progressively:
 - Enrich the contributors community (with people coming from outside inside|app)
 - Increase the DAO control over the game. that is: not only decide day to day treasury management, but also geting involved into game design and incoming features through proposals.
+
+?> Checkout [Contributing](governance/contributing.md) to know how to become a contributor.
+
+## Proposals
+
+Any PGLD token holder can submit and vote on proposals to the [DAO](https://app.aragon.org/#/daos/polygon/0x3e3c022c0d76cb53b8963a3836f379886f880a43/governance).
+
+Here are the rules for proposal submission:
+
+- Proposal must be discussed with the community before being submitted.
+- Proposal must be written in English.
+- Proposal must be written in a formal and respectful tone.
+- Proposal should stick to the template provided in this whitepaper.
+

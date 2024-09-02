@@ -1,6 +1,19 @@
 **Seven Seas** is designed, built, run, maintained and promoted by contributors.
 
-Most contributors come from [inside|app](https://www.insideapp.fr) at the moment, but anyone, once approved, can become a contributor.
+## Becoming a contributor
+
+Since septembre 2024, anyone can become a contributor.
+
+Becoming a contributor requires:
+- Having at least 200 000 PGLD tokens on your wallet anytime.
+- Whishing to contribute to the game in one of the following ways:
+  - Code
+  - Design
+  - Community
+  - Marketing
+
+?> Use the **#get-your-pirate-role** channel on the [Seven Seas discord](https://discord.gg/2Hz62BVA6J) to get your role and access contributor channels.
+
 
 ## Tasks
 
@@ -35,9 +48,3 @@ The expenses compensation rate is **100 PGLD for $1**.
 As for rewards, expenses compensations can be claimed with a DAO proposal.
 
 ?> Contributor can use the same template as for rewards to claim expenses: [Contributor Reward Proposal Template](governance/proposal_templates/contributor_reward_template.md).
-
-## Becoming a contributor
-
-We would be very happy to welcome new contributors when the time comes (probably after game launch).
-
-If you want ot join the team, let's meet on our [Discord](https://discord.gg/2Hz62BVA6J) to get to know each other !

@@ -31,4 +31,5 @@
 * [Contributing](governance/contributing.md)
 * Proposal templates
   * [Contributor Reward](governance/proposal_templates/contributor_reward_template.md)
+  * [Game Feature](governance/proposal_templates/game_feature_template.md)
 
