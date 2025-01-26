@@ -1,36 +1,28 @@
+# Game Flow
+
 ```blockdiag
 blockdiag {
   default_shape = roundedbox
   
 
   "Start" -> "Hunt";
-  "Start" -> "Buy";
-  "Start" -> "Crew setup";
+  "Start" -> "Enhance Your Crew";
 
-  "Buy" -> "Crew setup";
-
-  "Crew setup" -> "Hunt"
+  "Enhance Your Team" -> "Hunt"
   
-  "Hunt" -> "Buy";
-  "Hunt" -> "Crew setup";
+  "Hunt" -> "Enhance Your Crew";
   "Hunt" -> "Hunt";
 
   "Start" [color = "#FEF58F"];
-  "Buy" [color = "#BCD3FB"];
-  "Crew setup" [color = "#E0ADFA"];
+  "Enhance Your Crew" [color = "#E0ADFA"];
   "Hunt" [color = "greenyellow"];
 
  
 }
 ```
 
-| Stage      | Description                                                                                                                                                      |
-|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Start      | The player can start playing with or without a pirate. Howerver, in case he/she plays without at least one pirate, he/she will not get any reward from the game. |
-| Buy        | The player can buy more pirates, ships or items to increase his/her rewards and to ease his/her hunt.                                                            |
-| Crew setup | A player cannot start a treasure hunt until he/she has setup a crew (crew members, ship, items).                                                                 |
-| Hunt       | Once a player has a crew he/she can start a hunt to get rewards.                                                                                                 |
-
-?> for more information on crew see [Crew](game_concept/crew.md)
-
-?> for more information on hunts see [Hunts](game_concept/hunts.md)
+| Stage             | Description                                                                                                                                                                                      |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Start             | Embark on an epic treasure-hunting journey right from your mobile device! Begin by tapping the **"Set Sail"** button to launch your adventure.                                                   |
+| Enhance Your Crew | Use your GOLD to strengthen your team and prepare for even greater adventures:                                                                                                                   |
+| Hunt              | Once you've arrived at the treasure’s location, it’s time to dig! Unearth the chest to reveal the secrets hidden within—valuable treasures, GOLD, or even rare items that will aid your journey. |

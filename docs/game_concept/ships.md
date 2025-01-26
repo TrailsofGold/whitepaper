@@ -1,93 +1,67 @@
-<p align="center">
-  <img width="128" height="128" src="./img/ship1.png">
-  <img width="128" height="128" src="./img/ship2.png">
-  <img width="128" height="128" src="./img/ship3.png">
-  <img width="128" height="128" src="./img/ship4.png">
-</p>
+# The Ship
 
-Ships are NFTs that can be bought by players with PGLD and PRBT.
+<div align="center"><img src="img/ship1.png" alt="" height="128" width="128"> <img src="img/ship2.png" alt="" height="128" width="128"> <img src="img/ship3.png" alt="" height="128" width="128"> <img src="img/ship4.png" alt="" height="128" width="128"></div>
 
-## Seasons
+**The Ship**
 
-Ships NFTs are gathered into collections (Smart Contracts) named "seasons".
+The Ship is the lifeblood of your fleet, a steadfast vessel that carries your crew and Captain to treasures across the vast seas. A well-maintained and upgraded ship ensures smoother voyages and greater efficiency in your expeditions.
 
-Each season provides a set of ships, and each ship has a variable mint occurence according to its skills (the best the skills are, the rarest the pirate is).
+By utilizing GOLD into enhancing your ship, you can improve its capabilities, reducing the distance required to reach buried treasures. With every upgrade, the ship becomes faster and more reliable, allowing your Captain to uncover rewards with greater ease and efficiency.
+
+A mighty ship is the key to navigating treacherous waters and shortening the path to fortune. Strengthen your vessel, and watch your adventures become swifter, safer, and more rewarding!
 
 
-## Skills
 
-Ships skills are:
-- Speed
-- Armament
-- Capacity
+### Treasure Locations&#x20;
 
-Speed and Armament affect the game mechanics as Capacity gives the maximum crew size.
+Treasure locations are set in a 1.5km range around the player when he/she starts the hunt.
 
-If a player has more pirates that his/her ship capacity he/she can modify his/her crew composition in between each treasure hunt.
+The distance to the player is influenced by the ship's speed: the faster a ship is, the higher the probability is to have treasures closer to the player.
 
-He/she can also sell or trade pirates that he/she does not use.
+Distance computation formula is:
 
-## Types
+> $md - ((r \* md) \* (\sqrt{s \* 10} \* md / 100))$
 
-Ships can be of different types.
+where:
 
-The ship type as an incidence on its caracterics. 
+* $md$ is the maximum distance (1.5km)
+* $r$ is a random ratio
+* $s$ is the ship speed
 
-Some types are more common than others (gen occurence).
+For example, a crew with no ship (speed = 1) and a random ratio of 0.3 gives the distance of:
 
-| Type       	| Capacity 	| Speed  	| Armament 	| Gen occurence 	  |
-|------------	|----------	|--------	|----------	|-----------------	|
-| Sloop      	| 4-6      	| 10-100 	| 10-60    	| 10              	|
-| Schooner   	| 5-10     	| 10-90 	| 10-70    	| 7               	|
-| Brigantine 	| 10-15    	| 10-80 	| 15-100   	| 3               	|
-| Frigate    	| 15-20    	| 10-75  	| 20-100   	| 2               	|
+$1.5 - ((0.3 \* 1.5) \* (\sqrt{1 \* 10} \* 1.5 / 100)) = 1.48km$
 
-## Rarity level
+Other examples (rounded to 2 decimals):
 
-Like pirates, ship types have rarity levels. The rarest a ship is, the best its skills are.
+| Random ratio | Ship speed = 1 | Ship speed = 100 | Ship speed = 200 |
+| ------------ | -------------- | ---------------- | ---------------- |
+| 0.1          | 1.49 km        | 1.45 km          | 1.43 km          |
+| 0.2          | 1.49 km        | 1.40 km          | 1.36 km          |
+| 0.3          | 1.48 km        | 1.35 km          | 1.29 km          |
+| 0.4          | 1.47 km        | 1.30 km          | 1.22 km          |
+| 0.5          | 1.46 km        | 1.25 km          | 1.14 km          |
+| 0.6          | 1.46 km        | 1.20 km          | 1.07 km          |
+| 0.7          | 1.45 km        | 1.15 km          | 1.00 km          |
+| 0.8          | 1.44 km        | 1.10 km          | 0.93 km          |
+| 0.9          | 1.44 km        | 1.05 km          | 0.86 km          |
+| 1            | 1.43 km        | 1.00 km          | 0.79 km          |
 
-Ships skill point are speed and armament.
+In order to keep the game entraining, half of the treasures spawned for a hunt are closer by 30% to the player initial location.
 
-| Level     | Sum of skill points | Mint occurence|
-|-----------|---------------------|----------------|
-| Common    | 40                  | 60             |
-| Rare      | 70                  | 35             |
-| Epic      | 95                  | 30             |
-| Legendary | 175                 | 25             |
+As an example, in a hunt with a single pirate, 2 treasures are spawned:
 
+* The first one will be located according to the above location formula: $1.48km$
+* The second one will located at 30% of the the first one distance, that is $1.48 \* 0.3 = 444m$
 
-For example if the season has 4 common ships, 3 rare ships, 2 epic ships and 1 legendary ship, the sum of occurences are:
+### Types of Ships
 
-$4 * 60 + 3 * 35 + 2 * 30 + 25 = 430$
+There are 4 Type of Genesis Ships with The Seven Seas: Trails of Gold
 
-Meaning that a player has :
-- 25 chances out of 430 to get a legendary ship
-- 60 chances out of 430 to get an epic ship
-- 105 chances out of 430 to get a rare ship
-- 240 chances out of 430 to get a common ship
+<table><thead><tr><th>Type</th><th>Max Speed</th><th data-hidden>Capacity</th><th data-hidden>Armament</th><th data-hidden>Gen occurence</th></tr></thead><tbody><tr><td>Fleet Commanders Ship</td><td>200</td><td>4-6</td><td>10-60</td><td>10</td></tr><tr><td>Gold Ship</td><td>100</td><td>5-10</td><td>10-70</td><td>7</td></tr><tr><td>Silver Ship</td><td>50</td><td>10-15</td><td>15-100</td><td>3</td></tr><tr><td>Bronze Ship</td><td>1</td><td>5-20</td><td>20-100</td><td>2</td></tr></tbody></table>
 
-If mixed with ship type, the sum of occurences are:
+Note: If your Fleet Command has a Fleet Commander's Ship as the head of the Fleet - a 2x Multiplier will occur to all Ships within his/her Fleet Resulting in The Following:
 
-$430 * 10 + 430 * 7 + 430 * 3 + 430 * 2 = 9 460$
+<table><thead><tr><th>Type</th><th>Enhanced Speed Value</th><th data-hidden>Capacity</th><th data-hidden>Armament</th><th data-hidden>Gen occurence</th></tr></thead><tbody><tr><td>Fleet Commanders Ship</td><td>200</td><td>4-6</td><td>10-60</td><td>10</td></tr><tr><td>Gold Ship</td><td>200</td><td>5-10</td><td>10-70</td><td>7</td></tr><tr><td>Silver Ship</td><td>100</td><td>10-15</td><td>15-100</td><td>3</td></tr><tr><td>Bronze Ship</td><td>2</td><td>5-20</td><td>20-100</td><td>2</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-Meaning that a player has :
-- 50 chances ( 25 * 2) out of 9 460 to get a legendary Frigate
-- 90 chances (30 * 3) out of 9 460 to get an epic Brigantine
-- 600 chances (10 * 60) out of 9 460 to get a common Sloop
-
-## Mainteance
-
-After a hunt a ship needs maintenance. And during mainteance time, it cannot be used in a new hunt.
-
-Ship mainteance time is calculated according to its capacity skill: 3 hours per capacity.
-
-Examples:
-
-| Capacity  | Maintenance duration (hours) |
-|-----------|------------------------------|
-| 4         | 12                           |
-| 8         | 24                           |
-| 12        | 36                           |
-| 20        | 60                           |
-
-?> Note: if the player owns multiple ships with the same id, maintenance time is divided by the number of copies. Example: if player owns 2 copies of ship #5 (capacity 5): maintenance time will be $5 * 3 / 2 = 7h30$.
+\

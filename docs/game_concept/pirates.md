@@ -1,47 +1,25 @@
-<p align="center">
-  <img width="128" height="128" src="./img/pirate1.png">
-  <img width="128" height="128" src="./img/pirate2.png">
-  <img width="128" height="128" src="./img/pirate3.png">
-  <img width="128" height="128" src="./img/pirate4.png">
-</p>
+# The Navigator
 
-## Seasons
+**The Navigator**
 
-Pirates NFTs are gathered into collections (Smart Contracts) named "seasons".
+The Navigator is your trusted guide across the vast and unpredictable seas, ensuring your fleet stays on course and discovers the most lucrative treasure sites. With their expertise in charting routes and reading the stars, the Navigator plays a crucial role in the efficiency and success of every expedition.
 
-Each season provides a set of pirates, and each pirate has a variable mint occurence according to his skills (the best the skills are, the rarest the pirate is).
+By investing GOLD, you can upgrade your Navigator’s skills, equipping them with advanced maps, compasses, and the tools needed to master the art of cartography. As they hone their craft, the Navigator unlocks new buried treasure sites on your map, increasing the opportunities for greater rewards.
 
-## Rarity level
+A skilled Navigator turns even the most treacherous journey into smooth sailing, leading your fleet to unparalleled fortune. The better the Navigator, the richer the adventure!
 
-Each season contains pirate of different rarity levels. The rarest a pirate is, the best his skills are.
 
-| Level     | Sum of skill points | Mint occurence |
-|-----------|---------------------|----------------|
-| Common    | 100                 | 60             |
-| Rare      | 150                 | 35             |
-| Epic      | 250                 | 30             |
-| Legendary | 350                 | 25             |
 
-For example, if a season has 4 common pirates, 3 rare pirates, 2 epic pirates and 1 legendary pirate, the sum of occurences are:
+### Rarity level
 
-$4 * 60 + 3 * 35 + 2 * 30 + 25 = 430$
+Rarity of The Navigator will dynamically change according to its Level
 
-Meaning that a player has :
-- 25 chances out of 430 to get a legendary pirate
-- 60 chances out of 430 to get an epic pirate
-- 105 chances out of 430 to get a rare pirate
-- 240 chances out of 430 to get a common pirate
+<table><thead><tr><th>Level</th><th>Sum of skill points</th><th data-hidden></th></tr></thead><tbody><tr><td>Common</td><td>100</td><td></td></tr><tr><td>Uncommon</td><td>150</td><td></td></tr><tr><td>Rare</td><td>200</td><td></td></tr><tr><td>Epic</td><td>250</td><td>30</td></tr><tr><td>Legendary</td><td>350</td><td>25</td></tr></tbody></table>
 
-## Attributes and skills
+### The Navigators Utility
 
-Pirates are defined by a set of physical attributes and a set of skills.
+Treasures are unlocked all around the player's current location when the hunt starts.
 
-Physical attributes do not affect the game mechanics, but skills do.
+The number of spawned treasures in a hunt depends on the level of The Navigator:
 
-Skills are :
-- Navigation
-- Combat
-- Strategy
-- Mercy
-
-They range from 0 (minimum) to 100 (maximum) and have an impact on different actions during a hunt.
+<table><thead><tr><th width="344">The Navigators Level</th><th>Expected treasures</th></tr></thead><tbody><tr><td>Common</td><td>2</td></tr><tr><td>Uncommon</td><td>4</td></tr><tr><td>Rare</td><td>6</td></tr><tr><td>Epic</td><td>8</td></tr><tr><td>Legendary</td><td>10</td></tr></tbody></table>
