@@ -33,10 +33,24 @@ The goals of the game are simple and clear:
 
 ## Links
 
-* Website: https://trailsofgold.com/
-* X: https://X.com/TheTrailsofGold
-* Discord: https://dicord.gg/trailsofgold
+* Website:&#x20;
+
+https://trailsofgold.com/
+
+* X Page:
+
+https://X.com/TheTrailsofGold
+
+* Discord:&#x20;
+
+https://dicord.gg/trailsofgold
+
 * Captain Collection:
+
+
+
 * Ship Collection:&#x20;
+
+
 
 <div align="center"><img src="docs/img/jolly_roger.png" alt="" height="64" width="64"></div>

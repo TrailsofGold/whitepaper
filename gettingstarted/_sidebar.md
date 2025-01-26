@@ -1,6 +1,25 @@
 # Game Basics
 
-### 1. Select a Game Mode
+### The Seven Seas: Trails of Gold
+
+The Seven Seas: Trails of Gold is a mobile game where you hunt for treasures in the real world. Their are several ways to get started into the game.
+
+### 1. Download The Seven Seas: Trails of Gold App
+
+The app is available for iOS and Android.&#x20;
+
+
+
+### 2. Sign Up
+
+Option 1: Sign up using an Email Address\
+Option 2: Login using your pre-existing Crypto Wallet\
+\
+Note: If you Sign up using an Email Address, The Game will automatically set up an in-game wallet. You will be able to access the details of this wallet via the In-game Settings.&#x20;
+
+
+
+### 3. Choose your Game Mode
 
 **Deckhand Mode:**\
 As a Deckhand, your journey begins at the heart of the open seas, where adventure calls and treasures await. You have full access to the tools of the trade—explore islands, uncover hidden secrets, and sail alongside seasoned captains. But as a humble Deckhand, the treasures you discover will yield only 5% of their glittering bounty. Yet, hope is not lost, for every great captain once stood where you stand. Prove your worth, and a Fleet Commander may recognize your potential, promoting you to Captain and granting you the honor of commanding a fleet ship. The seas are vast, and your destiny is yours to forge.
@@ -22,7 +41,7 @@ Choose the mode that aligns with your playing style and budget to embark on your
 
 
 
-### 2. Start A Treasure Hunt
+### 4. Start A Treasure Hunt
 
 Embark on an epic treasure-hunting journey right from your mobile device! Begin by tapping the **"Set Sail"** button to launch your adventure. With your map in hand and the thrill of discovery ahead, navigate your surroundings to track down the locations of hidden treasures. As you explore, you'll encounter markers guiding you to the buried riches waiting beneath the surface.
 
@@ -32,7 +51,7 @@ The hunt is on—set sail and claim the treasures of the world!
 
 
 
-### 3. Enhance Your Crew
+### 5. Enhance Your Crew
 
 Your journey begins with a single tap of the **"Set Sail"** button, sending you on an immersive hunt for hidden treasures. Navigate your surroundings as your map guides you to the elusive buried treasure. Once you locate a treasure chest, dig it up to reveal the riches inside, including coveted GOLD!
 

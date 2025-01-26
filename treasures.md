@@ -1,6 +1,6 @@
 # Treasure Sites
 
-<div align="center"><img src="img/chest.png" alt="" width="128"></div>
+<div align="center"><img src="docs/game_concept/img/chest.png" alt="" width="128"></div>
 
 Treasures are geolocated rewards for players.
 
