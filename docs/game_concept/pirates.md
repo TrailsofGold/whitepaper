@@ -12,9 +12,9 @@ A skilled Navigator turns even the most treacherous journey into smooth sailing,
 
 ### Rarity level
 
-Rarity of The Navigator will dynamically change according to its Level
+Rarity of The Navigator will change according to its Level
 
-<table><thead><tr><th>Level</th><th>Sum of skill points</th><th data-hidden></th></tr></thead><tbody><tr><td>Common</td><td>100</td><td></td></tr><tr><td>Uncommon</td><td>150</td><td></td></tr><tr><td>Rare</td><td>200</td><td></td></tr><tr><td>Epic</td><td>250</td><td>30</td></tr><tr><td>Legendary</td><td>350</td><td>25</td></tr></tbody></table>
+<table><thead><tr><th>Level</th><th></th><th data-hidden></th></tr></thead><tbody><tr><td>Common</td><td>25</td><td></td></tr><tr><td>Uncommon</td><td>50</td><td></td></tr><tr><td>Rare</td><td>75</td><td></td></tr><tr><td>Epic</td><td>95</td><td>30</td></tr><tr><td>Legendary</td><td>100</td><td>25</td></tr></tbody></table>
 
 ### The Navigators Utility
 

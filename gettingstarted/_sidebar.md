@@ -21,7 +21,7 @@ Note: If you Sign up using an Email Address, The Game will automatically set up 
 
 ### 3. Choose your Game Mode
 
-**Deckhand Mode:**\
+**Deckhand:**\
 As a Deckhand, your journey begins at the heart of the open seas, where adventure calls and treasures await. You have full access to the tools of the trade—explore islands, uncover hidden secrets, and sail alongside seasoned captains. But as a humble Deckhand, the treasures you discover will yield only 5% of their glittering bounty. Yet, hope is not lost, for every great captain once stood where you stand. Prove your worth, and a Fleet Commander may recognize your potential, promoting you to Captain and granting you the honor of commanding a fleet ship. The seas are vast, and your destiny is yours to forge.
 
 
@@ -32,7 +32,7 @@ Option 2: Find a Fleet Commander from The Discord Community willing to Promote y
 
 
 
-**Captain Mode:**\
+**Captain:**\
 Captain Mode is for players who have proven themselves and earned their rank. Captains enjoy the full free-to-play experience and receive 100% of the treasures they discover, maximizing their rewards and progression. Captains are key contributors to fleet success, leading ships and securing treasures. This mode emphasizes strategic gameplay and rewards players for their commitment to the game and their fleet.
 
 Both modes allow players to experience the full breadth of the game without any barriers, providing opportunities for everyone to embark on an epic adventure and carve out their legacy in _Trails of Gold_.
