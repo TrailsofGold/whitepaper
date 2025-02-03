@@ -1,65 +1,123 @@
 # Game Basics
 
-### The Seven Seas: Trails of Gold
+_The Seven Seas: Trails of Gold_ is a mobile treasure-hunting game that brings adventure into the real world. Follow these steps to begin your journey:
 
-The Seven Seas: Trails of Gold is a mobile game where you hunt for treasures in the real world. Their are several ways to get started into the game.
+### **1. Download the App**
 
-### 1. Download The Seven Seas: Trails of Gold App
+The game is available on both major mobile platforms:
 
-The app is available for iOS and Android.&#x20;
+* 📱 **iOS** – _\[App Store Link Placeholder]_
+* 📱 **Android** – _\[Google Play Link Placeholder]_
 
+***
 
+### **2. Sign Up**
 
-### 2. Sign Up
+Choose your preferred method to create an account:
 
-Option 1: Sign up using an Email Address\
-Option 2: Login using your pre-existing Crypto Wallet\
-\
-Note: If you Sign up using an Email Address, The Game will automatically set up an in-game wallet. You will be able to access the details of this wallet via the In-game Settings.&#x20;
+* **Option 1:** Sign up using an **Email Address**.
+* **Option 2:** Log in using your **pre-existing Crypto Wallet**.
 
+🔹 **Important Note:**\
+If you sign up using an **Email Address**, the game will automatically create an **in-game wallet** for you. You can access your wallet details anytime via the **in-game settings**.
 
+***
 
 ### 3. Choose your Game Mode
 
-**Deckhand:**\
-As a Deckhand, your journey begins at the heart of the open seas, where adventure calls and treasures await. You have full access to the tools of the trade—explore islands, uncover hidden secrets, and sail alongside seasoned captains. But as a humble Deckhand, the treasures you discover will yield only 5% of their glittering bounty. Yet, hope is not lost, for every great captain once stood where you stand. Prove your worth, and a Fleet Commander may recognize your potential, promoting you to Captain and granting you the honor of commanding a fleet ship. The seas are vast, and your destiny is yours to forge.
+### _**Deckhand Mode**_
+
+As a **Deckhand**, your journey begins at the heart of the open seas, where **adventure calls and treasures await**. You will have full access to the **tools of the trade**—exploring **islands**, uncovering **hidden secrets**, and sailing alongside **seasoned Captains**.
+
+However, as a **humble Deckhand**, the treasures you discover will yield only **5% of their total Strength**. Yet, all hope is not lost, for **every great Captain once stood where you stand**. Prove your worth, and a **Fleet Commander** may recognize your potential, granting you a **promotion to Captain** and the honor of commanding a fleet ship.
+
+The **seas are vast**, and your **destiny is yours to forge**.
+
+#### **How to Get Promoted from Deckhand to Captain**
+
+* **Option 1:** Purchase a **Ship** from the **in-app store**.
+* **Option 2:** Find a **Fleet Commander** in the **Discord community** who is willing to promote you to Captain.
 
 
 
-Getting Promoted from Deckhand to Captain:\
-Option 1: Purchase A Ship from the In-app Store\
-Option 2: Find a Fleet Commander from The Discord Community willing to Promote you to Captain.
+### _**Captain Mode**_
+
+**Captain Mode** is reserved for players who have **proven their worth** and **earned their rank**, rising from **Deckhand** status to take command of their own ship.
+
+#### **Benefits of Captain Mode**
+
+* **Full Free-to-Play Experience** – Captains enjoy unrestricted gameplay.
+* **100% Strength Realization** – Unlike Deckhands, who can only utilize **5% of their Strength**, Captains unlock their **full potential** and maximize their power.
+* **Strategic Leadership** – Lead **expeditions**, uncover riches, and **strengthen your crew**.
+
+As key contributors to **fleet success**, Captains play a crucial role in **navigating, managing crews, and expanding their fleet’s power**.
+
+#### **How to Become a Captain**
+
+The only path to becoming a Captain is through **Fleet Command**, an external game within _The Seven Seas_ ecosystem, where **Fleet Commanders manage ships and recruit Deckhands**.
+
+* **Find a Fleet Commander** – Engage with the **community through official social channels** to connect with a Fleet Commander willing to **promote you to Captain**.
+* **Ships in Fleet Command** are **obtainable at a cost**, but **purchasing a ship is not mandatory** to become a Captain.
+* **Promoted Deckhands gain full Captain Mode access at no cost** but must pay a **20% Ship Rental Fee** to their Fleet Commander from the treasures they collect.
+
+#### **Command Your Own Legacy**
+
+This mode emphasizes **strategic gameplay, leadership, and fleet management**, offering players a path to **prestige and greater rewards**.
+
+Both **Deckhand Mode** and **Captain Mode** provide **full access to the game**, ensuring that every player experiences the thrill of **treasure hunting in Trails of Gold**.
+
+***
+
+### **4. Start a Treasure Hunt**
+
+Embark on an **epic treasure-hunting journey** right from your mobile device! Follow these steps to begin your adventure:
+
+#### **Set Sail & Explore**
+
+* Tap the **"Set Sail"** button to launch your adventure.
+* Your **map** will guide you, marking locations where hidden treasures lie waiting to be discovered.
+* Navigate your surroundings, using **real-world movement** to track down buried riches.
+
+#### **Unearth Hidden Treasures**
+
+* Once you arrive at a **treasure’s location**, it's time to dig!
+* **Unearth the chest** to reveal **valuable rewards**, including:
+  * **GOLD** – Essential for upgrading your Captain and Crew.
+  * **Rare Items** – Special tools and artifacts to aid your journey.
+  * **Exclusive Treasures** – Unique rewards that enhance your adventure.
+
+#### **Seamless Exploration**
+
+The mobile interface is designed for **effortless navigation**, making every step an exciting stride toward **fortune and glory**. Whether you're exploring **bustling cities, remote beaches, or hidden pathways**, every location holds the promise of discovery.
 
 
 
-**Captain:**\
-Captain Mode is for players who have proven themselves and earned their rank. Captains enjoy the full free-to-play experience and receive 100% of the treasures they discover, maximizing their rewards and progression. Captains are key contributors to fleet success, leading ships and securing treasures. This mode emphasizes strategic gameplay and rewards players for their commitment to the game and their fleet.
+Here’s your **Enhance Your Crew** section, professionally formatted for the game guide:
 
-Both modes allow players to experience the full breadth of the game without any barriers, providing opportunities for everyone to embark on an epic adventure and carve out their legacy in _Trails of Gold_.
+***
 
-Choose the mode that aligns with your playing style and budget to embark on your treasure-hunting adventure!
+### **5. Enhance Your Crew**
 
+Your adventure begins with a single tap of the **"Set Sail"** button, launching you into an immersive hunt for **hidden treasures**. Follow your map, navigate the seas, and uncover **buried riches**—including the highly coveted **GOLD**!
 
+#### **Turn Treasure into Power**
 
-### 4. Start A Treasure Hunt
+Finding treasure is just the beginning—what you **do with your GOLD** defines your **legacy**. Use your **bounty** to strengthen your team and prepare for even greater adventures:
 
-Embark on an epic treasure-hunting journey right from your mobile device! Begin by tapping the **"Set Sail"** button to launch your adventure. With your map in hand and the thrill of discovery ahead, navigate your surroundings to track down the locations of hidden treasures. As you explore, you'll encounter markers guiding you to the buried riches waiting beneath the surface.
+* **The Captain** 🏴‍☠️
+  * Increase experience and elevate **leadership abilities**.
+  * Enhance battle performance and **command your crew with greater skill**.
+  * Customize your Captain’s **appearance** to reflect their legendary status.
+* **The Navigator** 🧭
+  * Upgrade their **skills** to **chart better routes** and **increase treasure-finding efficiency**.
+  * Improve navigation to ensure **smooth sailing through dangerous waters**.
+* **The Ship** 🚢
+  * Reinforce your ship’s **durability** to withstand **harsh seas and fast rivals**.
+  * Enhance speed and maneuverability to **outlast and outmaneuver any challenge**.
+* **The Items** ⚒️
+  * Upgrade essential **tools and gear** to gain an **edge in treasure hunting**.
+  * Unlock rare items that help **uncover legendary treasures** and **tackle greater obstacles**.
 
-Once you've arrived at the treasure’s location, it’s time to dig! Unearth the chest to reveal the secrets hidden within—valuable treasures, GOLD, or even rare items that will aid your journey. The mobile interface is designed for seamless exploration, turning every step you take into an exciting path toward fortune and glory.
+#### **Forge Your Legacy**
 
-The hunt is on—set sail and claim the treasures of the world!
-
-
-
-### 5. Enhance Your Crew
-
-Your journey begins with a single tap of the **"Set Sail"** button, sending you on an immersive hunt for hidden treasures. Navigate your surroundings as your map guides you to the elusive buried treasure. Once you locate a treasure chest, dig it up to reveal the riches inside, including coveted GOLD!
-
-But the treasure is just the beginning—what you do with that GOLD defines your legacy. Use your bounty to strengthen your team and prepare for even greater adventures:
-
-* **The Captain**: Increase their experience and elevate their leadership abilities, making them a more formidable force in battle. Customize their design to reflect their growing legend.
-* **The Navigator**: Upgrade your navigator’s skills to chart better routes, enhance treasure-finding efficiency, and ensure smooth sailing through even the most treacherous waters.
-* **The Ship**: Reinforce and enhance your ship to withstand the harshest seas and fastest rivals, ensuring you can outmaneuver and outlast any challenge.
-* **The Items**: Improve and upgrade your essential tools and items, giving you the edge needed to uncover rarer treasures and tackle greater obstacles.
-
-Every piece of GOLD you find fuels your progression, turning your crew into a legendary force of the seas. Your decisions shape your adventure—will you become the most feared and revered treasure hunter of all time? The ocean is calling—set sail and leave your mark!
+Every piece of **GOLD** fuels your progression, turning your crew into a **legendary force** across the seas. Your **decisions shape your adventure**—will you rise to become the most **feared and revered** treasure hunter of all time?

@@ -1,13 +1,29 @@
 # Game Modes
 
-#### Explorer Mode
+### **Game Modes: Explorer & Journey Mode**
 
-**Description:**\
-Step into the boots of a true adventurer! In Explorer Mode, you actively roam the world using the Trails of Gold app to seek out hidden treasure dig sites. Every expedition you embark on is a chance to uncover secrets, solve puzzles, and discover chests brimming with the full 100% bounty of rewards. Whether you’re trekking through bustling city streets or venturing into the wild unknown, your every step writes a new chapter in your treasure-hunting adventures.\
+_The Seven Seas: Trails of Gold_ offers two distinct modes of treasure hunting, allowing players to **choose their own adventure**—whether through **active exploration** or **passive progression**.
 
+#### **🌍 Explorer Mode – Become a True Adventurer**
 
-\
-**Journey Mode**
+**Step into the boots of a fearless explorer!** In **Explorer Mode**, you actively roam the world using the **Trails of Gold** app to seek out **hidden treasure dig sites**. Every expedition presents an opportunity to:
 
-**Description:**\
-Not every treasure hunt needs to be a grand expedition—sometimes, simply being on the move is enough. In Journey Mode, the app tracks your daily activities in the background, ensuring that even your everyday journeys contribute to your quest. Although the chests you unlock carry 75% of the rewards compared to active exploration, each discovery is a testament to your steady progress. Embrace the rhythm of your daily route and watch as even routine travels pave the path to hidden riches.
+* **Uncover secrets** hidden in the world.
+* **Solve puzzles** that lead to legendary rewards.
+* **Discover treasure chests** packed with **100% of their bounty**.
+
+Whether you're trekking through **bustling city streets** or venturing into **uncharted landscapes**, **every step** you take writes a **new chapter** in your treasure-hunting legacy.
+
+#### **🚶‍♂️ Journey Mode – Turn Every Step into Progress**
+
+Not every treasure hunt requires a **grand expedition**—sometimes, simply **being on the move is enough**.
+
+In **Journey Mode**, the app **tracks your daily activities in the background**, ensuring that even your everyday movements contribute to your quest. While treasure chests unlocked in this mode **carry 75% of the rewards** compared to active exploration, each discovery is still a **testament to your steady progress**.
+
+* **Commutes, errands, and casual walks** all contribute to your treasure hunt.
+* Maintain a **passive progression path**, ensuring rewards without constant active play.
+* **Watch as even routine travels** bring you **one step closer** to **hidden riches**.
+
+#### **Choose Your Adventure**
+
+Whether you prefer the **thrill of the hunt in Explorer Mode** or **earning treasure through daily movement in Journey Mode**, _Trails of Gold_ ensures that **every step counts**.

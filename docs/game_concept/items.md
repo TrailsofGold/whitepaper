@@ -1,14 +1,18 @@
 # Items
 
-<div align="center"><img src="img/item1.png" alt="" height="128" width="128"> <img src="img/item2.png" alt="" height="128" width="128"> <img src="img/item3.png" alt="" height="128" width="128"> <img src="img/item4.png" alt="" height="128" width="128"></div>
+### **⚒️ Items – The Hidden Power of the Seas**
 
-**Items**
+**Mysterious and full of potential, Items hold the power to enhance your Crew’s attributes**, providing unique advantages that could **turn the tide of your adventures**. However, their **true effects remain shrouded in mystery**, waiting to be revealed in the future.
 
-Mysterious and full of potential, Items hold the power to enhance the attributes of your Crew, providing unique advantages that could turn the tide of your adventures. However, their true effects remain shrouded in mystery, waiting to be revealed at a future date.
+#### **🧭 The Role of Items**
 
-These enigmatic treasures are not just tools—they're opportunities for discovery and innovation. As their secrets unfold, they could unlock new strengths and possibilities for your Crew, giving you an edge in the ever-changing seas.
+* **Enhance Crew Attributes** – Items may strengthen your **Captain, Navigator, or Ship** in unexpected ways.
+* **Evolving Gameplay** – Their **secrets will unfold over time**, introducing **new strengths and possibilities** for your fleet.
+* **Opportunities for Discovery** – These **enigmatic treasures** are not just tools; they **represent innovation and adaptability** in the ever-changing seas.
 
-Keep collecting and upgrading your Items, for their hidden power may one day become the key to your fleet's ultimate success!
+#### **🏴‍☠️ Keep Collecting & Upgrading**
+
+Continue **collecting and upgrading** your Items, for their **hidden power** may one day become **the key to your fleet’s ultimate success**. The **greatest Captains know** that every artifact holds **a secret waiting to be unlocked**.
 
 
 
