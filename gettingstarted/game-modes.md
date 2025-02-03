@@ -2,7 +2,7 @@
 
 ### **Game Modes: Explorer & Journey Mode**
 
-_The Seven Seas: Trails of Gold_ offers two distinct modes of treasure hunting, allowing players to **choose their own adventure**—whether through **active exploration** or **passive progression**.
+_The Seven Seas: Trails of Gold_ offers two distinct ways to hunt for treasure, allowing players to **choose their own adventure**—whether through **active exploration** or **passive progression**.
 
 #### **🌍 Explorer Mode – Become a True Adventurer**
 
@@ -23,6 +23,8 @@ In **Journey Mode**, the app **tracks your daily activities in the background**,
 * **Commutes, errands, and casual walks** all contribute to your treasure hunt.
 * Maintain a **passive progression path**, ensuring rewards without constant active play.
 * **Watch as even routine travels** bring you **one step closer** to **hidden riches**.
+
+🔹 **Important Note:** To use **Journey Mode**, you must link your **Google Fit Account**, allowing the game to track your movement and progress seamlessly.
 
 #### **Choose Your Adventure**
 

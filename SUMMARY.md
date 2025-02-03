@@ -15,7 +15,7 @@
   * [ship\_wrecks](docs/game_concept/ship_wrecks.md)
   * [future\_concepts](docs/game_concept/future_concepts.md)
 * [Treasure Sites](treasures.md)
-* [tokenomics](tokenomics/README.md)
+* [Tokenomics](tokenomics/README.md)
   * [Dual Utility Currency](tokenomics/dual_token.md)
   * [Fee Model](tokenomics/fees_and_taxes.md)
   * [GOLD](tokenomics/pgld_token.md)
