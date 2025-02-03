@@ -14,7 +14,7 @@ A ship wreck is defined by :
   * A value in PGLD ranging from 0 to half of the max treasure value
   * 0 to 3 wrecked pirates
 
-?> for more information about the max treasure value, see [Treasures](game_concepts/treasures.md)
+?> for more information about the max treasure value, see [Treasures](../docs/game_concept/game_concepts/treasures.md)
 
 Everytime a player finds a ship wreck he/she gets a fixed amount of PRBT as well.
 
@@ -65,13 +65,13 @@ That is 2 ship wrecks will be spawned for the hunt.
 
 Ship wreck location works the same as treasures.
 
-?> See [Treasures](game_concept/treasures.md) for more details.
+?> See [Treasures](../docs/game_concept/game_concept/treasures.md) for more details.
 
 ### Expiration delay
 
 Ship wreck expiration delay works the same as treasures.
 
-?> See [Treasures](game_concept/treasures.md) for more details.
+?> See [Treasures](../docs/game_concept/game_concept/treasures.md) for more details.
 
 ### Rewards
 
@@ -93,4 +93,4 @@ PGLD value containes in wreck applies the same formula applied to treasures but 
 
 > $((st + nt)\* (mtv / 2000)) \* r \* 0.5$
 
-?> See [Treasures](game_concept/treasures.md) for more details.
+?> See [Treasures](../docs/game_concept/game_concept/treasures.md) for more details.

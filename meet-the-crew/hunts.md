@@ -4,7 +4,7 @@ hidden: true
 
 # hunts
 
-<div align="center"><img src="img/rudder.png" alt="" width="128"></div>
+<div align="center"><img src="../docs/game_concept/img/rudder.png" alt="" width="128"></div>
 
 Any player can start a hunt. However if a player starts a hunt without a pirate, he/she will not gt any reward when finding treasures.
 
@@ -96,7 +96,7 @@ After a hunt, the ship used needs maintenance. When a ship is under maintenance,
 
 Ship mainteance time depends on its capacity.
 
-?> For more information on ship mainteance, read [Ships](game_concept/ships.md)
+?> For more information on ship mainteance, read [Ships](../docs/game_concept/game_concept/ships.md)
 
 ### Crew trading during a hunt
 
