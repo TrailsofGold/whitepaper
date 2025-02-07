@@ -1,4 +1,4 @@
-# The Seven Seas: Trails of Gold
+# Overview
 
 ### **Introduction**
 
@@ -26,7 +26,7 @@ Once acquired, **Gold (GOLD)** can be used for:
 
 Prepare to set sail, build your legacy, and embark on the greatest treasure hunt of all time in _The Seven Seas: Trails of Gold_!
 
-![](docs/img/hunt_screen.png)&#x20;
+<img src="docs/img/hunt_screen.png" alt="" data-size="original">&#x20;
 
 ## Intended audience
 
@@ -63,8 +63,8 @@ By blending exploration, competition, strategy, and community-driven gameplay, _
 
     #### **NFT Collections**
 
-    * 🏴‍☠️ **Captain Collection** – \[Link Placeholder]
-    * 🚢 **Ship Collection** – \[Link Placeholder]
+    * 🏴‍☠️ **Captain Collection** – \[Coming Soon]
+    * 🚢 **Ship Collection** – \[Coming Soon]
 
     Join the community, recruit your crew, and set sail for legendary treasures!
 
