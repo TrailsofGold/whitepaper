@@ -4,7 +4,7 @@
 
 #### **🔹 Leveling Mechanics**
 
-* **1 Level = 1 Chest**
+* **1 Level = 1 Chest's Worth of Gold**
 * Due to the **dynamic nature of our PvP tokenomic modeling**, the **value of 1 Chest** will **vary for every player each day** based on in-game calculations.
 
 #### **🔹 Maximum Levels**
