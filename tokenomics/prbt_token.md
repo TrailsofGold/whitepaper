@@ -24,7 +24,7 @@
   * **🏴‍☠️ Captains** – Customize the look of your fearless leader.
   * **🚢 Ships** – Modify the design of your vessel to stand out on the high seas.
   * **⚒️ Items** – Enhance the aesthetics of valuable in-game equipment.
-  * **🧭 Crew** – Give your trusted team a unique, personalized look.
+  * **🧭 Navigator** – Give your trusted Navigator a unique, personalized look.
 
 BOOTY is **the premium currency of The Seven Seas Ecosystem**, providing **exclusive access** to rare treasures and advanced customization options in _The Seven Seas: Trails of Gold, Rising Tides, and Fleet Command_.
 
