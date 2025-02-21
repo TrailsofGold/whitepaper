@@ -22,6 +22,7 @@
   * [GOLD](tokenomics/pgld_token.md)
   * [BOOTY](tokenomics/prbt_token.md)
   * [Enhancement Costs and Max Levels](tokenomics/prices.md)
+* [Change-Log](change-log.md)
 * [overview](overview-1/README.md)
   * [game\_basics](overview-1/game_basics.md)
 * [roadmap](roadmap/README.md)
