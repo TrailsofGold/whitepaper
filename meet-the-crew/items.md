@@ -6,7 +6,7 @@
 
 #### **🧭 The Role of Items**
 
-* **Enhance Crew Attributes** – Items may strengthen your **Captain, Navigator, or Ship** in unexpected ways.
+* **Enhance Crew Attributes** – Items may strengthen your **Captain, Treasure Map, or Ship** in unexpected ways.
 * **Evolving Gameplay** – Their **secrets will unfold over time**, introducing **new strengths and possibilities** for your fleet.
 * **Opportunities for Discovery** – These **enigmatic treasures** are not just tools; they **represent innovation and adaptability** in the ever-changing seas.
 

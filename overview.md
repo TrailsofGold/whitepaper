@@ -8,7 +8,7 @@ _The Seven Seas: Trails of Gold_ is a hybrid Web2.0/Web3.0 treasure hunt adventu
 
 In _Trails of Gold_, players:
 
-* **Build Their Team** – Recruit and enhance their Captain, Navigator, Ship and Items.
+* **Build Their Team** – Recruit and enhance their Captain, Treasure Map, Ship and Items.
 * **Increase Their Strength** – Upgrade abilities to gain an edge in treasure hunts.
 * **Hunt for Gold (GOLD)** – Search for valuable treasures hidden throughout the real world.
 

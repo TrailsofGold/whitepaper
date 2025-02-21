@@ -108,9 +108,8 @@ Finding treasure is just the beginning—what you **do with your GOLD** defines 
   * Increase experience and elevate **leadership abilities**.
   * Enhance battle performance and **command your crew with greater skill**.
   * Customize your Captain’s **appearance** to reflect their legendary status.
-* **The Navigator** 🧭
-  * Upgrade their **skills** to **chart better routes** and **increase treasure-finding efficiency**.
-  * Improve navigation to ensure **smooth sailing through dangerous waters**.
+* **The Treasure Map** 🧭
+  * Upgrade their rarity to **discover more dig sites** and **increase treasure-finding efficiency**.
 * **The Ship** 🚢
   * Reinforce your ship’s **durability** to withstand **harsh seas and fast rivals**.
   * Enhance speed and maneuverability to **outlast and outmaneuver any challenge**.

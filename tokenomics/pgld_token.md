@@ -16,7 +16,7 @@ The **GOLD token** is the foundation of progression within _The Seven Seas Ecosy
 
 * **🏴‍☠️ Captain’s Leveling** – Strengthen your Captain to increase battle power and treasure efficiency.
 * **🚢 Ship’s Leveling** – Upgrade your Ship to improve travel speed and treasure proximity.
-* **🧭 Navigator’s Leveling** – Enhance your Navigator to boost expedition success and efficiency.
+* **🧭 Treasure Map’s Leveling** – Enhance your Treasure Map to boost expedition success and efficiency.
 * **⚒️ Item’s Leveling** – Upgrade Items to unlock hidden abilities and strategic advantages.
 
 GOLD is the **driving force behind progression**, ensuring that players who **train, upgrade, and refine their fleet** gain a strategic edge in _The Seven Seas: Trails of Gold, Rising Tides, and Fleet Command_.\

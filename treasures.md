@@ -7,17 +7,23 @@ Treasures are **geolocated rewards**, hidden across the world for players to dis
 * **📍 Location** – A precise **longitude (lon) and latitude (lat)** coordinate.
 * **💰 GOLD Amount** – The **reward contained within the chest**, which is **pre-determined** using the **Captain’s Algorithm**.
 
-#### **🧭 The Navigator’s Utility – Unlocking More Treasures**
+#### **The Treasure Map’s Utility – Unlocking Dig Sites**
 
-When a hunt begins, **treasures are unlocked around the player's current location**. The **Navigator’s level** directly influences how many treasures appear during a hunt.
+When a hunt begins, treasures are revealed across the Captain’s surroundings, but the **rarity of their Treasure Map** determines how many dig sites appear. A more advanced map uncovers additional locations, providing greater opportunities for discovery.
 
-* **Higher-level Navigators** unlock **more treasure sites**, increasing opportunities for GOLD.
-* **Lower-level Navigators** generate **fewer dig sites**, limiting potential rewards.
-* **All chest values are pre-determined** based on the **Captain’s Algorithm**, ensuring a structured reward system.
+⚓ **How the Treasure Map Affects Dig Site Availability**
 
-A skilled **Navigator** expands the **scope of every expedition**, ensuring **greater treasure-hunting potential** with every voyage.
+* **Higher-rarity Treasure Maps** reveal more dig sites per hunt, expanding the number of treasures available.
+* **Lower-rarity Treasure Maps** provide fewer dig sites, limiting exploration opportunities.
+* **Upgrading a Treasure Map** increases its effectiveness, allowing Captains to uncover richer, more treasure-filled locations.
 
-<table><thead><tr><th width="344">The Navigators Level</th><th>Expected treasures</th></tr></thead><tbody><tr><td>Common</td><td>2</td></tr><tr><td>Uncommon</td><td>4</td></tr><tr><td>Rare</td><td>6</td></tr><tr><td>Epic</td><td>8</td></tr><tr><td>Legendary</td><td>10</td></tr></tbody></table>
+🏴‍☠️ **A Rare Map Expands the Journey**\
+The **better the Treasure Map, the greater the hunt**, ensuring Captains have access to **more rewarding expeditions** with every voyage. Only those with the **most detailed maps** will uncover the full scope of the world’s hidden riches.
+
+🌊 **Chart the Ultimate Path to Fortune**\
+Your Treasure Map is the key to unlocking the greatest rewards. Upgrade wisely and let the adventure unfold!
+
+<table><thead><tr><th width="344">The Treasure Map Rarity</th><th>Expected treasures</th></tr></thead><tbody><tr><td>Common</td><td>2</td></tr><tr><td>Uncommon</td><td>4</td></tr><tr><td>Rare</td><td>6</td></tr><tr><td>Epic</td><td>8</td></tr><tr><td>Legendary</td><td>10</td></tr></tbody></table>
 
 ### **Treasure Locations**
 
@@ -80,6 +86,6 @@ At **00:00 UTC**, a **snapshot of Captain Experience** is taken, and the followi
 #### **⏳ Claiming Limits & Unclaimed Treasures**
 
 * The **User’s Daily Treasure Site Value Allocation** is now set.
-* A **player’s ability to collect treasure sites** is only limited by the **rarity of their Navigator**, which determines how many sites can be explored per day.
+* A **player’s ability to collect treasure sites** is only limited by the **rarity of their Treasure Map**, which determines how many sites can be explored per day.
 * **Any treasure site left unclaimed by 00:00 UTC will be marked as unclaimed and burned from the GOLD supply**.
 

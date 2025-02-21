@@ -14,7 +14,7 @@ Your **crew** is the backbone of your treasure-hunting expeditions, each playing
 * **Reduces travel time** between dig sites, ensuring **faster expeditions**.
 * Enhances efficiency, allowing you to **hunt for treasure more frequently**.
 
-#### **🧭 The Navigator**
+#### **🧭 The Treasure Map**
 
 * **Expands the number of dig sites available** by charting **new routes**.
 * Unlocks **hidden locations**, giving you access to **exclusive treasures**.

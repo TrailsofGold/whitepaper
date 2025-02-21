@@ -10,7 +10,7 @@
   * [The Crew](meet-the-crew/the-crew.md)
   * [The Captain](meet-the-crew/the-captain.md)
   * [The Ship](meet-the-crew/the-ship.md)
-  * [The Navigator](meet-the-crew/pirates.md)
+  * [Treasure Map](meet-the-crew/treasuremap.md)
   * [Items](meet-the-crew/items.md)
   * [hunts](meet-the-crew/hunts.md)
   * [ship\_wrecks](meet-the-crew/ship_wrecks.md)
