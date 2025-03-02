@@ -4,4 +4,4 @@
 Changed **The Navigator** to **The Treasure Map** for a smoother Utility Narrative\
 \
 2/3/2025\
-Updated Passive Play Mode Details\
+Updated Journey Play Mode from 75% Chest Reward to 100% Chest Reward but requires 25% additions Steps.\
