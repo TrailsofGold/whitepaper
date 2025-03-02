@@ -18,13 +18,11 @@ Whether you're trekking through **bustling city streets** or venturing into **un
 
 Not every treasure hunt requires a **grand expedition**—sometimes, simply **being on the move is enough**.
 
-In **Journey Mode**, the app **tracks your daily activities in the background**, ensuring that even your everyday movements contribute to your quest. While treasure chests unlocked in this mode **carry 75% of the rewards** compared to active exploration, each discovery is still a **testament to your steady progress**.
+In **Journey Mode**, the app **tracks your daily activities in the background**, ensuring that even your everyday movements contribute to your quest. While treasure chests unlocked in this mode **carry 100% of the rewards, they require 25% additions steps to claim your chest** compared to Explorer Mode.
 
 * **Commutes, errands, and casual walks** all contribute to your treasure hunt.
 * Maintain a **passive progression path**, ensuring rewards without constant active play.
 * **Watch as even routine travels** bring you **one step closer** to **hidden riches**.
-
-🔹 **Important Note:** To use **Journey Mode**, you must link your **Google Fit Account**, allowing the game to track your movement and progress seamlessly.
 
 #### **Choose Your Adventure**
 

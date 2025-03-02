@@ -22,7 +22,7 @@ Each ship type has a **maximum level cap** to maintain game balance:
 * **Silver Ship** – **Max Level: 100**
 * **Bronze Ship** – **Max Level: 100**
 
-**🧭 The Navigator**
+**🧭 Treasure Map**
 
 * **Max Level: 100** – Determines how many treasure sites a player can explore per day.
 
