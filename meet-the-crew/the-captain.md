@@ -16,8 +16,9 @@ A **great Captain** is always seeking **greater strength, deeper knowledge, and 
 
 Treasure yield is determined by a **daily snapshot** taken at **00:00 UTC**, ensuring fair distribution based on Captain Strength:
 
-1. **User Captain Strength / Total Captain Strength** = **% of Daily Gold Pool Allocation to Chests**
-2. **% of Daily Gold Pool Allocation to Chests / 10** = **GOLD amount per Chest**
+1. **User Captain Strength / Total Captain Strength** = **% of Daily Gold Pool Allocation to Account**
+2. **% of Daily Gold Pool Allocation to Account / 10** = **GOLD amount per Chest on Average**\
+   **Note: 1 Chest = Two Dig Sites**
 
 The **stronger your Captain**, the **greater their battle power** for **uncovering treasure**. By continuously **enhancing their Strength, Knowledge, and Experience**, you ensure that your Captain **remains a dominant force** in the hunt for GOLD.
 

@@ -3,6 +3,7 @@
 * [The Seven Seas: Trails of Gold](README.md)
 * [Overview](overview.md)
 * [Getting Started](gettingstarted/README.md)
+  * [Quick Guide](gettingstarted/quick-guide.md)
   * [Game Basics](gettingstarted/game-basics.md)
   * [Game Modes](gettingstarted/game-modes.md)
   * [Game Flow](gettingstarted/game-flow.md)
