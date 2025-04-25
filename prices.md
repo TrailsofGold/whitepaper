@@ -4,8 +4,7 @@
 
 #### **🔹 Leveling Mechanics**
 
-* **1 Level = 1 Chest's Worth of Gold**\
-  **Note: 2 Dig Sites = 1 Chest**
+* **1 Level = 2 Dig Sites worth of GOLD**
 * Due to the **dynamic nature of our PvP tokenomic modeling**, the **value of 1 Chest** will **vary for every player each day** based on in-game calculations.
 
 #### **🔹 Maximum Levels**
@@ -33,6 +32,6 @@ Each ship type has a **maximum level cap** to maintain game balance:
 
 #### **🌊 Adaptive Progression for a Competitive Edge**
 
-With the **PvP-driven tokenomic system**, **leveling is dynamic**, ensuring that **no two players experience the same growth path**. Players must **strategize upgrades wisely** to maintain a competitive edge in _The Seven Seas: Trails of Gold, Rising Tides, and Fleet Command_.
+With the **PvP-driven tokenomic system**, **leveling is dynamic**, ensuring that **no two players experience the same growth path but ensures the same rate of progression**. Players must **strategize upgrades wisely** to maintain a competitive edge in _The Seven Seas: Trails of Gold, Rising Tides, and Fleet Command_.
 
 ⚓ **Sail forward, level up, and become a true legend of the high seas!** 🏆\
