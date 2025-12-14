@@ -1,3 +1,3 @@
-# The Seven Seas: Trails of Gold
+# STEPLETE
 
-<figure><img src=".gitbook/assets/Photoroom-20241230_152146.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

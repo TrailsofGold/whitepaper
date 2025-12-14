@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Game Modes
 
 ### **Game Modes: Explorer & Journey Mode**

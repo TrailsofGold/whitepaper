@@ -1,2 +1,6 @@
-# tokenomics
+---
+hidden: true
+---
+
+# Tokenomics
 
