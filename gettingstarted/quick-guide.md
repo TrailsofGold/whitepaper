@@ -23,7 +23,3 @@ Your Gear Role: Your engine on the pavement. Function: High-tier kicks are essen
 **💧 WATER BOTTLE**
 
 Your Endurance Role: Unlocks the path ahead. Function: Hydration equals opportunity. The rarity of your Water Bottle determines how many Checkpoints appear on your route during a session. Impact: Higher rarity bottles unlock more Checkpoints, giving you more opportunities to earn. Upgrade With: GOLD – Enhance your bottle to reveal more Checkpoints and higher quality rewards.
-
-***
-
-Master these three assets to maximize your rewards and rise through the ranks in _Trails of Gold_. Each upgrade brings you closer to untold riches and eternal glory on the high seas!
